@@ -28,6 +28,7 @@ across 4 regions, 6 products, and 6 salespersons.
 
 | File | Description |
 |------|-------------|
+| [`HP_Nigeria_Sales_Data.xlsx`](HP_Nigeria_Sales_Data.xlsx) | Original data set provided |
 | [`Imran's_HP_Sales_Dashboard.xlsx`](Imran's_HP_Sales_Dashboard.xlsx) | The Excel dashboard file |
 | [`hp_nigeria_dashboard_preview.png`](hp_nigeria_dashboard_preview.png) | Full dashboard screenshot |
 
