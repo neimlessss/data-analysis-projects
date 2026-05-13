@@ -1,6 +1,7 @@
 # HP Nigeria — Sales Performance Dashboard
 
 **Tool:** Microsoft Excel
+
 **Type:** Class Project | Simulated Dataset
 
 An interactive Excel dashboard analysing H1 2025 sales performance for HP Nigeria
