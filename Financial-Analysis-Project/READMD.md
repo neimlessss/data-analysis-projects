@@ -80,8 +80,8 @@ financial-analysis/
 ## Charts
 
 ![Financial Waterfall](1_financial_waterfall.png)
-![Segment Performance](2_segment_performance.png)
-![Discount Analysis](3_discount_analysis.png)
+![Segment Overview](2_segment_overview.png)
+![Discount Heatmap](3_discount_heatmap.png)
 ![Monthly Trend](4_monthly_trend.png)
 ![Product Performance](5_products_performance.png)
 ![Country Performance](6_country_performance.png)
