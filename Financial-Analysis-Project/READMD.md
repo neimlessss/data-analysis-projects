@@ -44,7 +44,7 @@ The dataset covers September 2013 through December 2014, making a direct year-on
 ## Project Structure
 
 ```
-financial-analysis/
+Financial-Analysis-Project/
 │
 ├── financial_analysis.ipynb   # Main notebook — data loading, cleaning, SQL queries, charts, findings
 ├── financials.sql             # Full SQL analysis — exploratory queries with analytical commentary
