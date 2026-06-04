@@ -8,7 +8,7 @@ across the full data analysis workflow — from cleaning and modelling to visual
 
 ## Projects
 
-| # | Project | Tool | Type |
+| # | Project | Tools Used | Type |
 |---|---------|------|------|
 | 1 | [HP Nigeria Sales Performance Dashboard](HP-Nigeria-Sales-Dashboard/) | Microsoft Excel | Class Project |
 | 2 | [Literate Nigeria EdTech Performance Dashboard](Literate-Nigeria-EdTech-Dashboard/) | Power BI | Personal Project |
