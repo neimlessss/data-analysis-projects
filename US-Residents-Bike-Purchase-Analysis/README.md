@@ -65,7 +65,7 @@ Power BI's default implicit aggregations (`SUM`, `AVERAGE`) would silently doubl
 ![Demographics page](3_demographics.png)
 
 **Bike Purchase Drivers**
-![Bike Purchase Drivers page](4_bike-purchase-drivers.png)
+![Bike Purchase Drivers page](4_bike_purchase_drivers.png)
 
 **Key Insights & Recommendations**
 ![Key Insights page](5_KIR.png)
