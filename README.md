@@ -12,15 +12,16 @@ across the full data analysis workflow — from cleaning and modelling to visual
 |---|---------|------|------|
 | 1 | [HP Nigeria Sales Performance Dashboard](HP-Nigeria-Sales-Dashboard/) | Microsoft Excel | Class Project |
 | 2 | [Literate Nigeria EdTech Performance Dashboard](Literate-Nigeria-EdTech-Dashboard/) | Power BI | Personal Project |
-| 3 | [Financial Analysis Project](Financial-Analysis-Project/) | SQL & Python | Personal Project|
+| 3 | [Financial Analysis Project](Financial-Analysis-Project/) | PostgreSQL & Python | Personal Project|
+| 4 | [US Residents Bike Purchase Analysis](US-Residents-Bike-Purchase-Analysis/) | MySQL & Power BI | Personal Project |
 
 ---
 
 ## Tools Covered
 - Microsoft Excel
 - Power BI
-- SQL
-- Python
+- SQL (PostgreSQL & MySQL)
+- Python (Pandas, Matplotlib & Seaborn)
 
 *More projects will be added as the portfolio grows.*
 
