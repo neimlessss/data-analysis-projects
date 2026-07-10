@@ -1,0 +1,1027 @@
+ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Commute Distance,City,Age,Purchased Bike,Tax
+12496,M,F,"$40,000.00 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,"New York City, New York",42,No,4000
+24107,M,M,"$30,000.00 ",3,Partial College,Clerical,Yes,1,0-1 Miles,"New York City, New York",43,No,5000
+14177,M,M,"$80,000.00 ",5,Partial College,Professional,No,2,2-5 Miles,"New York City, New York",60,No,2342
+24381,S,M,"$70,000.00 ",0,Bachelors,Professional,Yes,1,5-10 Miles,"Los Angeles, California",41,Yes,4051
+25597,S,M,"$30,000.00 ",0,Bachelors,Clerical,No,0,0-1 Miles,"New York City, New York",36,Yes,3274
+13507,M,F,"$10,000.00 ",2,Partial College,Manual,Yes,0,1-2 Miles,"New York City, New York",50,No,2029
+27974,S,M,"$160,000.00 ",2,High School,Management,Yes,4,0-1 Miles,"Los Angeles, California",33,Yes,4018
+19364,M,M,"$40,000.00 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,"New York City, New York",43,Yes,3838
+22155,M,M,"$20,000.00 ",2,Partial High School,Clerical,Yes,2,5-10 Miles,"Los Angeles, California",58,No,3159
+19280,M,M,"$120,000.00 ",2,Partial College,Manual,Yes,1,0-1 Miles,"New York City, New York",40,Yes,2050
+22173,M,F,"$30,000.00 ",3,High School,Skilled Manual,No,2,1-2 Miles,"Los Angeles, California",54,Yes,4540
+12697,S,F,"$90,000.00 ",0,Bachelors,Professional,No,4,10+ Miles,"Los Angeles, California",36,No,1191
+11434,M,M,"$170,000.00 ",5,Partial College,Professional,Yes,0,0-1 Miles,"New York City, New York",55,No,4928
+25323,M,M,"$40,000.00 ",2,Partial College,Clerical,Yes,1,1-2 Miles,"New York City, New York",35,Yes,2656
+23542,S,M,"$60,000.00 ",1,Partial College,Skilled Manual,No,1,0-1 Miles,"Los Angeles, California",45,Yes,1362
+20870,S,F,"$10,000.00 ",2,High School,Manual,Yes,1,0-1 Miles,"New York City, New York",38,Yes,2542
+23316,S,M,"$30,000.00 ",3,Partial College,Clerical,No,2,1-2 Miles,"Los Angeles, California",59,Yes,4077
+12610,M,F,"$30,000.00 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",47,No,4888
+27183,S,M,"$40,000.00 ",2,Partial College,Clerical,Yes,1,1-2 Miles,"New York City, New York",35,Yes,4572
+25940,S,M,"$20,000.00 ",2,Partial High School,Clerical,Yes,2,5-10 Miles,"Los Angeles, California",55,Yes,4611
+25598,M,F,"$40,000.00 ",0,Graduate Degree,Clerical,Yes,0,0-1 Miles,"New York City, New York",36,Yes,3926
+21564,S,F,"$80,000.00 ",0,Bachelors,Professional,Yes,4,10+ Miles,"Los Angeles, California",35,No,1473
+19193,S,M,"$40,000.00 ",2,Partial College,Clerical,Yes,0,1-2 Miles,"New York City, New York",35,Yes,3660
+26412,M,F,"$80,000.00 ",5,High School,Management,No,3,5-10 Miles,"New York City, New York",56,No,2304
+27184,S,M,"$40,000.00 ",2,Partial College,Clerical,No,1,0-1 Miles,"New York City, New York",34,No,3786
+12590,S,M,"$30,000.00 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",63,No,3496
+17841,S,M,"$30,000.00 ",0,Partial College,Clerical,No,1,0-1 Miles,"New York City, New York",29,Yes,4477
+18283,S,F,"$100,000.00 ",0,Bachelors,Professional,No,1,5-10 Miles,"Los Angeles, California",40,No,3548
+18299,M,M,"$70,000.00 ",5,Partial College,Skilled Manual,Yes,2,5-10 Miles,"Los Angeles, California",44,No,2018
+16466,S,F,"$20,000.00 ",0,Partial High School,Manual,No,2,0-1 Miles,"New York City, New York",32,Yes,1623
+19273,M,F,"$20,000.00 ",2,Partial College,Manual,Yes,0,0-1 Miles,"New York City, New York",63,No,2099
+22400,M,M,"$10,000.00 ",0,Partial College,Manual,No,1,0-1 Miles,"Los Angeles, California",26,Yes,3913
+20942,S,F,"$20,000.00 ",0,High School,Manual,No,1,5-10 Miles,"New York City, New York",31,No,3378
+18484,S,M,"$80,000.00 ",2,High School,Skilled Manual,No,2,1-2 Miles,"Los Angeles, California",50,Yes,1938
+12291,S,M,"$90,000.00 ",5,Partial College,Professional,No,2,2-5 Miles,"New York City, New York",62,Yes,4536
+28380,S,F,"$10,000.00 ",5,Partial High School,Manual,No,2,0-1 Miles,"New York City, New York",41,No,4890
+17891,M,F,"$10,000.00 ",2,Partial College,Manual,Yes,1,0-1 Miles,"New York City, New York",50,Yes,2806
+27832,S,F,"$30,000.00 ",0,Partial College,Clerical,No,1,2-5 Miles,"New York City, New York",30,No,2250
+26863,S,M,"$20,000.00 ",0,High School,Manual,No,1,2-5 Miles,"New York City, New York",28,No,1950
+16259,S,F,"$10,000.00 ",4,Partial High School,Manual,Yes,2,0-1 Miles,"New York City, New York",40,Yes,4529
+27803,S,F,"$30,000.00 ",2,Partial College,Clerical,No,0,0-1 Miles,"New York City, New York",43,No,3527
+14347,S,F,"$40,000.00 ",2,Bachelors,Management,Yes,2,5-10 Miles,"Los Angeles, California",65,Yes,1091
+17703,M,F,"$10,000.00 ",1,Graduate Degree,Manual,Yes,0,0-1 Miles,"New York City, New York",40,No,3471
+17185,M,F,"$170,000.00 ",4,Partial College,Professional,No,3,5-10 Miles,"New York City, New York",48,Yes,3119
+29380,M,F,"$20,000.00 ",3,High School,Manual,Yes,0,0-1 Miles,"New York City, New York",41,Yes,3923
+23986,M,F,"$20,000.00 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",66,Yes,3674
+24466,M,F,"$60,000.00 ",1,Partial College,Skilled Manual,Yes,1,5-10 Miles,"Los Angeles, California",46,Yes,4653
+29097,S,F,"$40,000.00 ",2,Partial College,Skilled Manual,Yes,2,5-10 Miles,"Los Angeles, California",52,Yes,2637
+19487,M,M,"$30,000.00 ",2,Partial College,Clerical,No,2,0-1 Miles,"New York City, New York",42,No,1630
+14939,S,M,"$40,000.00 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",39,Yes,4833
+13826,S,F,"$30,000.00 ",0,Partial College,Clerical,No,1,0-1 Miles,"New York City, New York",28,No,1893
+20619,S,M,"$80,000.00 ",0,Bachelors,Professional,No,4,10+ Miles,"Los Angeles, California",35,No,3992
+12558,M,F,"$20,000.00 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",65,No,3420
+24871,S,F,"$90,000.00 ",4,High School,Management,No,3,5-10 Miles,"New York City, New York",56,No,2882
+17319,S,F,"$70,000.00 ",0,Bachelors,Professional,No,1,5-10 Miles,"Los Angeles, California",42,No,2378
+28906,M,M,"$80,000.00 ",4,High School,Professional,Yes,2,10+ Miles,"New York City, New York",54,No,1742
+12808,M,M,"$40,000.00 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",38,Yes,3989
+20567,M,M,"$130,000.00 ",4,Partial College,Professional,No,4,5-10 Miles,"New York City, New York",61,Yes,1130
+25502,M,F,"$40,000.00 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,"New York City, New York",43,Yes,2728
+15580,M,M,"$60,000.00 ",2,Bachelors,Professional,Yes,1,2-5 Miles,"Los Angeles, California",38,Yes,1253
+24185,S,F,"$10,000.00 ",1,High School,Manual,No,1,1-2 Miles,"New York City, New York",45,No,3180
+19291,S,F,"$10,000.00 ",2,High School,Manual,Yes,0,0-1 Miles,"New York City, New York",35,No,4643
+16713,M,M,"$40,000.00 ",2,Bachelors,Management,Yes,1,0-1 Miles,"Los Angeles, California",52,Yes,3777
+16185,S,M,"$60,000.00 ",4,Bachelors,Professional,Yes,3,10+ Miles,"Los Angeles, California",41,No,4716
+14927,M,F,"$30,000.00 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",37,Yes,2096
+29337,S,M,"$30,000.00 ",2,Partial College,Clerical,Yes,2,5-10 Miles,"Los Angeles, California",68,No,2439
+29355,M,F,"$40,000.00 ",0,Graduate Degree,Clerical,Yes,0,0-1 Miles,"New York City, New York",37,Yes,1431
+25303,S,M,"$30,000.00 ",0,High School,Manual,Yes,1,2-5 Miles,"New York City, New York",33,Yes,1574
+14813,S,F,"$20,000.00 ",4,High School,Manual,Yes,1,0-1 Miles,"New York City, New York",43,Yes,2892
+16438,M,F,"$10,000.00 ",0,Partial High School,Manual,No,2,0-1 Miles,"New York City, New York",30,No,1856
+14238,M,M,"$120,000.00 ",0,Partial High School,Professional,Yes,4,10+ Miles,"Los Angeles, California",36,Yes,1904
+16200,S,F,"$10,000.00 ",0,Partial High School,Manual,No,2,0-1 Miles,"New York City, New York",35,No,3493
+24857,M,F,"$130,000.00 ",3,High School,Professional,Yes,4,0-1 Miles,"New York City, New York",52,No,2824
+26956,S,F,"$20,000.00 ",0,Partial College,Manual,No,1,2-5 Miles,"New York City, New York",36,Yes,2983
+14517,M,F,"$20,000.00 ",3,High School,Skilled Manual,No,2,1-2 Miles,"Los Angeles, California",62,No,3498
+12678,S,F,"$130,000.00 ",4,High School,Management,Yes,4,0-1 Miles,"Los Angeles, California",31,No,3712
+16188,S,F,"$20,000.00 ",0,Partial High School,Manual,No,2,1-2 Miles,"New York City, New York",26,No,1153
+27969,M,M,"$80,000.00 ",0,Bachelors,Professional,Yes,2,10+ Miles,"Los Angeles, California",29,Yes,1498
+15752,M,M,"$80,000.00 ",2,High School,Skilled Manual,No,2,1-2 Miles,"Los Angeles, California",50,Yes,3507
+27745,S,M,"$40,000.00 ",2,Bachelors,Management,Yes,2,5-10 Miles,"Los Angeles, California",63,Yes,4673
+20828,M,F,"$30,000.00 ",4,Graduate Degree,Clerical,Yes,0,0-1 Miles,"New York City, New York",45,Yes,3145
+19461,S,F,"$10,000.00 ",4,Partial High School,Manual,Yes,2,0-1 Miles,"New York City, New York",40,No,1562
+26941,M,M,"$30,000.00 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",47,Yes,3124
+28412,S,M,"$20,000.00 ",0,High School,Manual,No,1,2-5 Miles,"New York City, New York",29,No,1348
+24485,S,M,"$40,000.00 ",2,Bachelors,Management,No,1,5-10 Miles,"Los Angeles, California",52,Yes,3255
+16514,S,M,"$10,000.00 ",0,Partial College,Manual,Yes,1,1-2 Miles,"Los Angeles, California",26,Yes,2731
+17191,S,M,"$130,000.00 ",3,Partial College,Professional,No,3,0-1 Miles,"New York City, New York",51,Yes,3762
+19608,M,M,"$80,000.00 ",5,Bachelors,Professional,Yes,4,1-2 Miles,"Los Angeles, California",40,No,4817
+24119,S,M,"$30,000.00 ",0,Partial College,Clerical,No,1,2-5 Miles,"New York City, New York",29,No,1427
+25458,M,M,"$20,000.00 ",1,High School,Manual,No,1,1-2 Miles,"New York City, New York",40,Yes,2313
+26886,S,F,"$30,000.00 ",0,Partial College,Clerical,No,1,0-1 Miles,"New York City, New York",29,Yes,1924
+28436,S,M,"$30,000.00 ",0,Partial College,Clerical,No,1,0-1 Miles,"New York City, New York",30,Yes,4186
+19562,S,F,"$60,000.00 ",2,Bachelors,Professional,Yes,1,2-5 Miles,"Los Angeles, California",37,Yes,1351
+15608,S,F,"$30,000.00 ",0,Partial College,Clerical,No,1,2-5 Miles,"New York City, New York",33,No,3044
+16487,S,F,"$30,000.00 ",3,High School,Skilled Manual,Yes,2,5-10 Miles,"Los Angeles, California",55,No,3753
+17197,S,F,"$90,000.00 ",5,Partial College,Professional,Yes,2,10+ Miles,"New York City, New York",62,No,3461
+12507,M,M,"$30,000.00 ",1,Partial College,Clerical,Yes,1,0-1 Miles,"New York City, New York",43,No,3708
+23940,M,M,"$40,000.00 ",1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,"New York City, New York",44,Yes,2083
+19441,M,M,"$40,000.00 ",0,Graduate Degree,Clerical,Yes,0,0-1 Miles,"New York City, New York",25,Yes,3646
+26852,M,F,"$20,000.00 ",3,High School,Manual,Yes,2,0-1 Miles,"New York City, New York",43,No,1777
+12274,S,M,"$10,000.00 ",2,High School,Manual,Yes,0,0-1 Miles,"New York City, New York",35,No,4681
+20236,S,M,"$60,000.00 ",3,Bachelors,Professional,No,2,0-1 Miles,"Los Angeles, California",43,Yes,4273
+24149,M,M,"$10,000.00 ",2,Partial College,Manual,Yes,0,1-2 Miles,"New York City, New York",49,No,1455
+26139,S,M,"$60,000.00 ",1,Partial College,Skilled Manual,Yes,1,5-10 Miles,"Los Angeles, California",45,No,1940
+18491,S,F,"$70,000.00 ",2,High School,Professional,Yes,2,5-10 Miles,"Los Angeles, California",49,Yes,3547
+22707,S,F,"$30,000.00 ",0,Partial College,Clerical,No,1,2-5 Miles,"New York City, New York",30,No,3692
+20430,M,M,"$70,000.00 ",2,Partial College,Skilled Manual,Yes,2,5-10 Miles,"Los Angeles, California",52,Yes,3516
+27494,S,F,"$40,000.00 ",2,Partial College,Skilled Manual,No,2,1-2 Miles,"Los Angeles, California",53,Yes,3429
+26829,M,F,"$40,000.00 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",38,Yes,2916
+28395,S,M,"$40,000.00 ",0,Bachelors,Professional,No,0,0-1 Miles,"New York City, New York",39,Yes,3828
+21006,S,F,"$30,000.00 ",1,Partial College,Manual,No,0,0-1 Miles,"New York City, New York",46,Yes,2786
+14682,S,F,"$70,000.00 ",0,Bachelors,Professional,No,1,5-10 Miles,"Los Angeles, California",38,No,1505
+17650,S,F,"$40,000.00 ",2,Partial College,Clerical,Yes,2,1-2 Miles,"New York City, New York",35,No,4043
+29191,S,F,"$130,000.00 ",1,Graduate Degree,Management,No,1,0-1 Miles,"Los Angeles, California",36,Yes,1430
+15030,M,M,"$20,000.00 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,"Los Angeles, California",26,Yes,1575
+24140,S,M,"$10,000.00 ",0,Graduate Degree,Manual,No,0,0-1 Miles,"New York City, New York",30,Yes,1816
+22496,M,F,"$30,000.00 ",1,Bachelors,Skilled Manual,Yes,2,0-1 Miles,"New York City, New York",42,No,4771
+24065,S,F,"$20,000.00 ",0,High School,Manual,Yes,0,0-1 Miles,"New York City, New York",40,Yes,4304
+19914,M,M,"$80,000.00 ",5,Bachelors,Management,Yes,2,2-5 Miles,"New York City, New York",62,No,4141
+12871,S,F,"$30,000.00 ",0,Partial College,Clerical,No,1,2-5 Miles,"New York City, New York",29,No,3432
+22988,M,F,"$40,000.00 ",2,Bachelors,Management,Yes,2,5-10 Miles,"Los Angeles, California",66,Yes,1674
+15922,M,M,"$150,000.00 ",2,High School,Professional,Yes,4,0-1 Miles,"New York City, New York",48,No,4228
+12344,S,F,"$80,000.00 ",0,Bachelors,Professional,No,3,10+ Miles,"Los Angeles, California",31,No,1340
+23627,S,F,"$100,000.00 ",3,Partial College,Management,No,4,5-10 Miles,"New York City, New York",56,No,1840
+27775,S,F,"$40,000.00 ",0,Bachelors,Clerical,No,0,0-1 Miles,"New York City, New York",38,Yes,4866
+29301,M,M,"$80,000.00 ",5,Bachelors,Professional,Yes,4,1-2 Miles,"Los Angeles, California",40,No,2328
+12716,S,M,"$30,000.00 ",0,Partial College,Clerical,Yes,1,2-5 Miles,"New York City, New York",32,No,2727
+12472,M,M,"$30,000.00 ",1,Bachelors,Clerical,Yes,1,2-5 Miles,"New York City, New York",39,No,2703
+20970,S,M,"$10,000.00 ",2,Partial College,Manual,Yes,1,0-1 Miles,"New York City, New York",52,Yes,1956
+26818,S,M,"$10,000.00 ",3,High School,Manual,Yes,1,0-1 Miles,"New York City, New York",39,Yes,4334
+12993,M,M,"$60,000.00 ",2,Bachelors,Professional,Yes,1,2-5 Miles,"Los Angeles, California",37,No,4299
+14192,M,M,"$90,000.00 ",4,High School,Management,Yes,3,5-10 Miles,"New York City, New York",56,Yes,2246
+19477,M,M,"$40,000.00 ",0,Bachelors,Professional,Yes,0,0-1 Miles,"New York City, New York",40,Yes,4141
+26796,S,M,"$40,000.00 ",2,Bachelors,Management,Yes,2,5-10 Miles,"Los Angeles, California",65,Yes,1060
+21094,S,F,"$30,000.00 ",2,Partial College,Clerical,Yes,2,0-1 Miles,"New York City, New York",42,No,4742
+12234,M,M,"$10,000.00 ",2,Partial College,Manual,Yes,1,2-5 Miles,"New York City, New York",52,No,4265
+28683,S,F,"$10,000.00 ",1,High School,Manual,No,1,5-10 Miles,"New York City, New York",35,Yes,2936
+17994,S,M,"$20,000.00 ",2,High School,Manual,Yes,2,0-1 Miles,"New York City, New York",42,No,1298
+24273,M,F,"$20,000.00 ",2,Partial High School,Clerical,Yes,2,5-10 Miles,"Los Angeles, California",55,Yes,1873
+26547,S,F,"$30,000.00 ",2,Partial College,Clerical,No,2,5-10 Miles,"Los Angeles, California",60,Yes,1845
+22500,S,M,"$40,000.00 ",0,Bachelors,Professional,No,0,0-1 Miles,"New York City, New York",40,Yes,1644
+23993,S,F,"$10,000.00 ",0,Partial College,Manual,No,1,0-1 Miles,"Los Angeles, California",26,Yes,4794
+14832,M,M,"$40,000.00 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,"New York City, New York",42,Yes,3798
+16614,M,F,"$80,000.00 ",0,Bachelors,Professional,Yes,3,10+ Miles,"Los Angeles, California",32,No,1144
+20877,S,M,"$30,000.00 ",1,Bachelors,Clerical,Yes,0,1-2 Miles,"New York City, New York",37,Yes,4661
+20729,M,F,"$40,000.00 ",2,Partial College,Clerical,No,1,0-1 Miles,"New York City, New York",34,No,2796
+22464,M,M,"$40,000.00 ",0,Graduate Degree,Clerical,Yes,0,0-1 Miles,"New York City, New York",37,Yes,1994
+19475,M,F,"$40,000.00 ",0,Bachelors,Professional,No,0,0-1 Miles,"New York City, New York",40,Yes,1252
+19675,M,M,"$20,000.00 ",4,High School,Skilled Manual,Yes,2,5-10 Miles,"Los Angeles, California",60,No,1913
+12728,S,M,"$30,000.00 ",0,Partial College,Clerical,No,1,1-2 Miles,"New York City, New York",27,No,2941
+26154,M,M,"$60,000.00 ",1,Partial College,Skilled Manual,Yes,1,5-10 Miles,"Los Angeles, California",43,Yes,4834
+29117,S,M,"$100,000.00 ",1,Bachelors,Management,No,3,0-1 Miles,"Los Angeles, California",48,No,2340
+17845,S,F,"$20,000.00 ",0,Partial High School,Manual,No,2,1-2 Miles,"New York City, New York",32,No,1884
+25058,M,M,"$100,000.00 ",1,Bachelors,Management,Yes,3,2-5 Miles,"Los Angeles, California",47,No,1601
+23426,S,M,"$80,000.00 ",5,Graduate Degree,Management,Yes,3,0-1 Miles,"Los Angeles, California",40,No,3433
+14798,S,F,"$10,000.00 ",4,Partial High School,Manual,Yes,2,0-1 Miles,"New York City, New York",41,Yes,3960
+12664,M,F,"$130,000.00 ",5,Partial College,Professional,Yes,4,0-1 Miles,"New York City, New York",59,No,4429
+23979,S,M,"$10,000.00 ",2,Partial College,Manual,No,0,0-1 Miles,"New York City, New York",50,No,1506
+25605,S,F,"$20,000.00 ",2,Partial College,Manual,No,1,0-1 Miles,"New York City, New York",54,Yes,1831
+20797,M,F,"$10,000.00 ",1,Bachelors,Manual,Yes,0,0-1 Miles,"New York City, New York",48,No,4321
+21980,S,F,"$60,000.00 ",1,Bachelors,Professional,Yes,1,5-10 Miles,"Los Angeles, California",44,Yes,2305
+25460,M,F,"$20,000.00 ",2,High School,Manual,Yes,0,0-1 Miles,"New York City, New York",40,Yes,3833
+29181,S,F,"$60,000.00 ",2,Bachelors,Professional,No,1,0-1 Miles,"Los Angeles, California",38,Yes,1635
+24279,S,M,"$40,000.00 ",2,Partial College,Skilled Manual,No,2,1-2 Miles,"Los Angeles, California",52,No,1954
+22402,M,M,"$10,000.00 ",0,Partial College,Manual,Yes,1,2-5 Miles,"Los Angeles, California",25,Yes,4912
+15465,M,F,"$10,000.00 ",0,Partial College,Manual,No,1,0-1 Miles,"Los Angeles, California",25,No,2196
+26757,S,M,"$90,000.00 ",1,Bachelors,Professional,Yes,1,2-5 Miles,"Los Angeles, California",47,Yes,2621
+14233,S,M,"$100,000.00 ",0,High School,Management,Yes,3,10+ Miles,"Los Angeles, California",35,No,4043
+14058,S,M,"$70,000.00 ",0,Bachelors,Professional,No,1,5-10 Miles,"Los Angeles, California",41,Yes,4026
+12273,M,M,"$30,000.00 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",47,No,2089
+17203,M,F,"$130,000.00 ",4,Partial College,Professional,Yes,4,5-10 Miles,"New York City, New York",61,Yes,2710
+18144,M,F,"$80,000.00 ",5,Bachelors,Management,Yes,2,2-5 Miles,"New York City, New York",61,No,2237
+23963,M,M,"$10,000.00 ",0,Partial High School,Manual,No,2,0-1 Miles,"New York City, New York",33,No,3657
+17907,M,F,"$10,000.00 ",0,Partial College,Manual,Yes,1,2-5 Miles,"Los Angeles, California",27,No,2513
+19442,S,M,"$50,000.00 ",0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,"New York City, New York",37,Yes,2918
+17504,S,F,"$80,000.00 ",2,Partial College,Skilled Manual,Yes,2,5-10 Miles,"Los Angeles, California",52,Yes,2658
+12253,S,F,"$20,000.00 ",0,Partial College,Manual,Yes,0,0-1 Miles,"Los Angeles, California",29,Yes,3843
+27304,S,F,"$110,000.00 ",2,Partial College,Professional,No,3,5-10 Miles,"New York City, New York",48,No,2606
+14191,M,M,"$160,000.00 ",4,Partial College,Professional,No,2,10+ Miles,"New York City, New York",55,Yes,2338
+12212,M,F,"$10,000.00 ",0,Graduate Degree,Manual,Yes,0,0-1 Miles,"New York City, New York",37,Yes,3209
+25529,S,M,"$10,000.00 ",1,Graduate Degree,Manual,Yes,0,0-1 Miles,"New York City, New York",44,No,3281
+22170,M,F,"$30,000.00 ",3,Partial College,Clerical,No,2,1-2 Miles,"Los Angeles, California",55,Yes,4852
+19445,M,F,"$10,000.00 ",2,High School,Manual,No,1,0-1 Miles,"New York City, New York",38,No,4107
+15265,S,M,"$40,000.00 ",2,Bachelors,Management,Yes,2,5-10 Miles,"Los Angeles, California",66,Yes,4669
+28918,M,F,"$130,000.00 ",4,High School,Management,No,4,10+ Miles,"New York City, New York",58,No,4241
+15799,M,F,"$90,000.00 ",1,Bachelors,Professional,Yes,1,2-5 Miles,"Los Angeles, California",47,Yes,4953
+11047,M,F,"$30,000.00 ",3,High School,Skilled Manual,No,2,1-2 Miles,"Los Angeles, California",56,Yes,1128
+18151,S,M,"$80,000.00 ",5,Partial College,Professional,No,2,10+ Miles,"New York City, New York",59,No,1774
+20606,M,F,"$70,000.00 ",0,Bachelors,Professional,Yes,4,10+ Miles,"Los Angeles, California",32,Yes,1778
+19482,M,M,"$30,000.00 ",1,Partial College,Clerical,Yes,1,0-1 Miles,"New York City, New York",44,Yes,4454
+16489,M,M,"$30,000.00 ",3,High School,Skilled Manual,Yes,2,5-10 Miles,"Los Angeles, California",55,No,1344
+26944,S,M,"$90,000.00 ",2,High School,Manual,Yes,0,0-1 Miles,"New York City, New York",36,Yes,2894
+15682,S,F,"$80,000.00 ",5,Bachelors,Management,Yes,2,10+ Miles,"New York City, New York",62,No,1214
+26032,M,F,"$70,000.00 ",5,Bachelors,Professional,Yes,4,10+ Miles,"Los Angeles, California",41,No,2292
+17843,S,F,"$10,000.00 ",0,Partial High School,Manual,No,2,0-1 Miles,"New York City, New York",32,No,1988
+25559,S,M,"$20,000.00 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,"Los Angeles, California",25,Yes,1537
+16209,S,F,"$50,000.00 ",0,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,"New York City, New York",36,No,1778
+11147,M,M,"$60,000.00 ",2,Graduate Degree,Management,Yes,1,0-1 Miles,"Los Angeles, California",67,Yes,1805
+15214,S,F,"$100,000.00 ",0,Graduate Degree,Management,No,1,1-2 Miles,"Los Angeles, California",39,Yes,2995
+11453,S,M,"$80,000.00 ",0,Bachelors,Professional,No,3,10+ Miles,"Los Angeles, California",33,Yes,2414
+24584,S,M,"$60,000.00 ",0,Bachelors,Professional,No,3,2-5 Miles,"Los Angeles, California",31,No,3733
+12585,M,M,"$10,000.00 ",1,High School,Manual,Yes,0,2-5 Miles,"Los Angeles, California",27,Yes,3909
+18626,S,M,"$40,000.00 ",2,Partial College,Clerical,Yes,0,1-2 Miles,"New York City, New York",33,Yes,2893
+29298,S,F,"$60,000.00 ",1,Partial College,Skilled Manual,Yes,1,5-10 Miles,"Los Angeles, California",46,Yes,2157
+24842,S,F,"$90,000.00 ",3,High School,Professional,No,1,2-5 Miles,"New York City, New York",51,No,1824
+15657,M,M,"$30,000.00 ",3,Graduate Degree,Clerical,Yes,0,0-1 Miles,"New York City, New York",46,Yes,2057
+11415,S,M,"$90,000.00 ",5,Partial College,Professional,No,2,10+ Miles,"New York City, New York",62,No,1675
+28729,S,F,"$20,000.00 ",0,Partial High School,Manual,Yes,2,1-2 Miles,"New York City, New York",26,Yes,1853
+22633,S,F,"$40,000.00 ",0,Graduate Degree,Clerical,Yes,0,0-1 Miles,"New York City, New York",37,Yes,4065
+25649,S,F,"$30,000.00 ",3,Partial College,Clerical,Yes,0,0-1 Miles,"New York City, New York",42,Yes,4596
+14669,M,F,"$80,000.00 ",4,Graduate Degree,Management,Yes,1,0-1 Miles,"Los Angeles, California",36,No,4214
+19299,M,F,"$50,000.00 ",0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,"New York City, New York",36,Yes,4700
+20946,S,F,"$30,000.00 ",0,Partial College,Clerical,No,1,2-5 Miles,"New York City, New York",30,No,2061
+11451,S,M,"$70,000.00 ",0,Bachelors,Professional,No,4,10+ Miles,"Los Angeles, California",31,Yes,3220
+25553,M,M,"$30,000.00 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",65,Yes,3272
+27951,S,M,"$80,000.00 ",4,Partial College,Professional,No,2,2-5 Miles,"New York City, New York",54,Yes,4042
+25026,M,M,"$20,000.00 ",2,Partial High School,Clerical,Yes,3,5-10 Miles,"Los Angeles, California",54,No,2830
+13673,S,F,"$20,000.00 ",0,Partial High School,Manual,No,2,0-1 Miles,"New York City, New York",25,No,4620
+16043,S,M,"$10,000.00 ",1,Bachelors,Manual,Yes,0,0-1 Miles,"New York City, New York",48,No,2696
+22399,S,M,"$10,000.00 ",0,Partial College,Manual,Yes,1,1-2 Miles,"Los Angeles, California",26,Yes,4478
+27696,M,M,"$60,000.00 ",1,Bachelors,Professional,Yes,1,5-10 Miles,"Los Angeles, California",43,Yes,4023
+25313,S,M,"$10,000.00 ",0,Partial High School,Manual,No,2,1-2 Miles,"New York City, New York",35,No,4456
+13813,M,F,"$30,000.00 ",3,Partial College,Clerical,No,0,0-1 Miles,"New York City, New York",42,No,1832
+18711,S,F,"$70,000.00 ",5,Bachelors,Professional,Yes,4,10+ Miles,"Los Angeles, California",39,No,3328
+19650,M,F,"$30,000.00 ",2,Partial College,Clerical,No,2,0-1 Miles,"Los Angeles, California",67,No,3225
+14135,M,M,"$20,000.00 ",1,Partial College,Manual,Yes,0,1-2 Miles,"New York City, New York",35,No,4773
+12833,S,F,"$20,000.00 ",3,High School,Manual,Yes,1,0-1 Miles,"New York City, New York",42,Yes,3517
+26849,M,M,"$10,000.00 ",3,Partial High School,Manual,Yes,2,0-1 Miles,"New York City, New York",43,No,2665
+20962,M,F,"$20,000.00 ",1,Graduate Degree,Clerical,Yes,0,0-1 Miles,"New York City, New York",45,No,3892
+28915,S,M,"$80,000.00 ",5,High School,Management,Yes,3,10+ Miles,"New York City, New York",57,No,1866
+22830,M,M,"$120,000.00 ",4,Partial College,Management,Yes,3,10+ Miles,"New York City, New York",56,No,1010
+14777,M,F,"$40,000.00 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",38,Yes,4066
+12591,M,F,"$30,000.00 ",4,Graduate Degree,Clerical,Yes,0,0-1 Miles,"New York City, New York",45,No,1882
+24174,M,M,"$20,000.00 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,"Los Angeles, California",27,Yes,3160
+24611,S,M,"$90,000.00 ",0,Bachelors,Professional,No,4,10+ Miles,"Los Angeles, California",35,Yes,2344
+11340,M,F,"$10,000.00 ",1,Graduate Degree,Clerical,Yes,0,0-1 Miles,"New York City, New York",70,Yes,2542
+25693,S,F,"$30,000.00 ",5,Graduate Degree,Clerical,Yes,0,0-1 Miles,"New York City, New York",44,Yes,2187
+25555,M,F,"$10,000.00 ",0,Partial College,Manual,No,1,0-1 Miles,"Los Angeles, California",26,Yes,2516
+22006,M,M,"$70,000.00 ",5,Partial College,Skilled Manual,Yes,3,5-10 Miles,"Los Angeles, California",46,No,1396
+20060,S,F,"$30,000.00 ",0,High School,Manual,No,1,2-5 Miles,"New York City, New York",34,Yes,1627
+17702,M,M,"$10,000.00 ",1,Graduate Degree,Manual,Yes,0,0-1 Miles,"New York City, New York",37,No,2140
+12503,S,F,"$30,000.00 ",3,Partial College,Clerical,Yes,2,0-1 Miles,"New York City, New York",27,No,1875
+23908,S,M,"$30,000.00 ",1,Bachelors,Clerical,No,1,0-1 Miles,"New York City, New York",39,Yes,2356
+22527,S,F,"$20,000.00 ",0,High School,Manual,No,1,2-5 Miles,"New York City, New York",29,No,1797
+19057,M,F,"$120,000.00 ",3,Bachelors,Management,No,2,10+ Miles,"New York City, New York",52,Yes,1965
+18494,M,M,"$110,000.00 ",5,Bachelors,Management,Yes,4,2-5 Miles,"Los Angeles, California",48,Yes,2643
+11249,M,F,"$130,000.00 ",3,Partial College,Professional,Yes,3,0-1 Miles,"New York City, New York",51,Yes,3584
+21568,M,F,"$100,000.00 ",0,High School,Management,Yes,4,10+ Miles,"Los Angeles, California",34,Yes,1593
+13981,M,F,"$10,000.00 ",5,High School,Skilled Manual,No,3,1-2 Miles,"Los Angeles, California",62,No,1831
+23432,S,M,"$70,000.00 ",0,Bachelors,Professional,Yes,1,5-10 Miles,"Los Angeles, California",37,Yes,2258
+22931,M,M,"$100,000.00 ",5,Graduate Degree,Management,No,1,1-2 Miles,"Los Angeles, California",78,Yes,2095
+18172,M,M,"$130,000.00 ",4,High School,Professional,Yes,3,0-1 Miles,"New York City, New York",55,No,2141
+12666,S,M,"$60,000.00 ",0,Bachelors,Professional,No,4,2-5 Miles,"Los Angeles, California",31,No,1524
+20598,M,M,"$100,000.00 ",3,Partial High School,Professional,Yes,0,10+ Miles,"New York City, New York",59,Yes,2968
+21375,S,M,"$20,000.00 ",2,Partial High School,Clerical,Yes,2,5-10 Miles,"Los Angeles, California",57,No,1250
+20839,S,F,"$30,000.00 ",3,Graduate Degree,Clerical,Yes,0,0-1 Miles,"New York City, New York",47,Yes,2798
+21738,M,M,"$20,000.00 ",1,Graduate Degree,Clerical,Yes,0,0-1 Miles,"New York City, New York",43,No,3177
+14164,S,F,"$50,000.00 ",0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,"New York City, New York",36,Yes,4478
+14193,S,F,"$100,000.00 ",3,Partial College,Management,Yes,4,10+ Miles,"New York City, New York",56,No,3279
+12705,M,M,"$150,000.00 ",0,Bachelors,Management,Yes,4,0-1 Miles,"Los Angeles, California",37,Yes,2143
+22672,S,F,"$30,000.00 ",2,Partial College,Clerical,Yes,0,0-1 Miles,"New York City, New York",43,No,4457
+26219,M,F,"$40,000.00 ",1,Bachelors,Skilled Manual,Yes,1,1-2 Miles,"New York City, New York",33,Yes,4137
+28468,M,F,"$10,000.00 ",2,Partial College,Manual,Yes,0,1-2 Miles,"New York City, New York",51,No,2726
+23419,S,F,"$70,000.00 ",5,Bachelors,Professional,Yes,3,10+ Miles,"Los Angeles, California",39,No,2651
+17964,M,M,"$40,000.00 ",0,Graduate Degree,Clerical,Yes,0,0-1 Miles,"New York City, New York",37,Yes,3026
+20919,S,F,"$30,000.00 ",2,Partial College,Clerical,Yes,2,0-1 Miles,"New York City, New York",42,No,3347
+20927,S,F,"$20,000.00 ",5,High School,Manual,Yes,2,0-1 Miles,"New York City, New York",27,No,3089
+13133,S,M,"$100,000.00 ",5,Bachelors,Professional,Yes,1,5-10 Miles,"Los Angeles, California",47,Yes,2567
+19626,M,M,"$70,000.00 ",5,Partial College,Skilled Manual,Yes,3,5-10 Miles,"Los Angeles, California",45,No,1988
+21039,S,F,"$50,000.00 ",0,Graduate Degree,Skilled Manual,No,0,0-1 Miles,"New York City, New York",37,Yes,1540
+12231,S,F,"$10,000.00 ",2,Partial College,Manual,Yes,0,0-1 Miles,"New York City, New York",51,Yes,2210
+25665,S,F,"$20,000.00 ",0,High School,Manual,No,1,1-2 Miles,"New York City, New York",28,No,4750
+24061,M,M,"$10,000.00 ",4,Partial High School,Manual,Yes,1,0-1 Miles,"New York City, New York",40,Yes,4839
+26879,S,F,"$20,000.00 ",0,High School,Manual,No,1,2-5 Miles,"New York City, New York",30,No,3918
+12284,M,F,"$30,000.00 ",0,Bachelors,Clerical,No,0,0-1 Miles,"New York City, New York",36,Yes,2412
+26654,M,F,"$90,000.00 ",1,Graduate Degree,Management,Yes,0,0-1 Miles,"Los Angeles, California",37,Yes,3743
+14545,M,F,"$10,000.00 ",2,Partial College,Manual,Yes,0,1-2 Miles,"New York City, New York",49,No,4993
+24201,M,F,"$10,000.00 ",2,High School,Manual,Yes,0,0-1 Miles,"New York City, New York",37,Yes,4580
+20625,M,M,"$100,000.00 ",0,High School,Management,Yes,3,10+ Miles,"Los Angeles, California",35,Yes,3957
+16390,S,M,"$30,000.00 ",1,Bachelors,Clerical,No,0,0-1 Miles,"New York City, New York",38,Yes,1598
+14804,S,F,"$10,000.00 ",3,Partial High School,Manual,Yes,2,0-1 Miles,"New York City, New York",43,No,3853
+12629,S,M,"$20,000.00 ",1,Partial College,Manual,No,0,0-1 Miles,"New York City, New York",37,No,1932
+14696,S,M,"$10,000.00 ",0,Partial High School,Manual,No,2,0-1 Miles,"New York City, New York",34,No,2356
+22005,M,F,"$70,000.00 ",5,Partial College,Skilled Manual,No,3,5-10 Miles,"Los Angeles, California",46,No,1145
+14544,S,M,"$10,000.00 ",1,Partial College,Manual,Yes,0,0-1 Miles,"New York City, New York",49,No,3559
+14312,M,F,"$60,000.00 ",1,Partial College,Skilled Manual,Yes,1,5-10 Miles,"Los Angeles, California",45,No,4640
+29120,S,F,"$100,000.00 ",1,Bachelors,Management,Yes,4,2-5 Miles,"Los Angeles, California",48,No,2244
+24187,S,F,"$30,000.00 ",3,Graduate Degree,Clerical,No,0,0-1 Miles,"New York City, New York",46,Yes,3465
+15758,M,M,"$130,000.00 ",0,Graduate Degree,Management,Yes,0,5-10 Miles,"Los Angeles, California",48,No,4457
+29094,M,M,"$30,000.00 ",3,High School,Skilled Manual,Yes,2,5-10 Miles,"Los Angeles, California",54,Yes,4406
+28319,S,F,"$60,000.00 ",1,Partial College,Skilled Manual,No,1,0-1 Miles,"Los Angeles, California",46,Yes,2437
+16406,M,M,"$40,000.00 ",0,Bachelors,Clerical,No,0,0-1 Miles,"New York City, New York",38,Yes,2304
+20923,M,F,"$40,000.00 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,"New York City, New York",42,Yes,4645
+11378,S,F,"$10,000.00 ",1,High School,Manual,No,1,2-5 Miles,"New York City, New York",46,Yes,1631
+20851,S,M,"$20,000.00 ",0,Partial College,Manual,No,1,2-5 Miles,"New York City, New York",36,Yes,2559
+21557,S,F,"$110,000.00 ",0,Partial College,Management,Yes,3,10+ Miles,"Los Angeles, California",32,Yes,3348
+26663,S,F,"$60,000.00 ",2,Bachelors,Professional,No,1,0-1 Miles,"Los Angeles, California",39,Yes,2614
+11896,M,M,"$100,000.00 ",1,Graduate Degree,Management,Yes,0,2-5 Miles,"Los Angeles, California",36,Yes,3762
+14189,M,F,"$90,000.00 ",4,High School,Professional,No,2,2-5 Miles,"New York City, New York",54,Yes,2428
+13136,M,F,"$30,000.00 ",2,Partial College,Clerical,No,2,5-10 Miles,"Los Angeles, California",69,No,3408
+25906,S,F,"$10,000.00 ",5,High School,Skilled Manual,No,2,1-2 Miles,"Los Angeles, California",62,No,3294
+17926,S,F,"$40,000.00 ",0,Bachelors,Clerical,No,0,0-1 Miles,"Los Angeles, California",28,Yes,2329
+26928,S,M,"$30,000.00 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",62,Yes,1713
+20897,M,F,"$30,000.00 ",1,Bachelors,Skilled Manual,Yes,2,0-1 Miles,"New York City, New York",40,No,4718
+28207,M,M,"$80,000.00 ",4,Graduate Degree,Management,Yes,1,0-1 Miles,"Los Angeles, California",36,Yes,4428
+25923,S,M,"$10,000.00 ",2,Partial High School,Clerical,Yes,2,5-10 Miles,"Los Angeles, California",58,No,2145
+11000,M,M,"$90,000.00 ",2,Bachelors,Professional,Yes,0,1-2 Miles,"Los Angeles, California",40,Yes,2438
+20974,M,M,"$10,000.00 ",2,Bachelors,Clerical,Yes,1,0-1 Miles,"New York City, New York",66,No,3858
+28758,M,M,"$40,000.00 ",2,Partial College,Clerical,Yes,1,1-2 Miles,"New York City, New York",35,Yes,1450
+11381,M,F,"$20,000.00 ",2,Partial College,Manual,Yes,1,2-5 Miles,"New York City, New York",47,Yes,2468
+17522,M,M,"$120,000.00 ",4,Bachelors,Management,Yes,1,2-5 Miles,"Los Angeles, California",47,No,1011
+21207,M,M,"$60,000.00 ",1,Partial College,Skilled Manual,Yes,1,5-10 Miles,"Los Angeles, California",46,No,4339
+28102,M,M,"$20,000.00 ",4,High School,Skilled Manual,Yes,2,5-10 Miles,"Los Angeles, California",58,Yes,4298
+23105,S,M,"$40,000.00 ",3,Partial High School,Clerical,No,2,5-10 Miles,"Los Angeles, California",52,Yes,1126
+18740,M,M,"$80,000.00 ",5,Bachelors,Professional,No,1,0-1 Miles,"Los Angeles, California",47,Yes,4608
+21213,S,M,"$70,000.00 ",0,Bachelors,Professional,No,1,5-10 Miles,"Los Angeles, California",41,No,4596
+17352,M,M,"$50,000.00 ",2,Graduate Degree,Management,Yes,1,5-10 Miles,"Los Angeles, California",64,Yes,4380
+14154,M,M,"$30,000.00 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",35,Yes,1726
+19066,M,M,"$130,000.00 ",4,Partial College,Professional,No,3,10+ Miles,"New York City, New York",54,No,4908
+11386,M,F,"$30,000.00 ",3,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",45,No,3690
+20228,M,M,"$100,000.00 ",0,Graduate Degree,Management,Yes,0,2-5 Miles,"Los Angeles, California",40,Yes,4134
+16675,S,F,"$160,000.00 ",0,Graduate Degree,Management,No,3,0-1 Miles,"Los Angeles, California",47,Yes,2647
+16410,S,F,"$10,000.00 ",4,Partial High School,Manual,Yes,2,0-1 Miles,"New York City, New York",41,Yes,4036
+27760,S,F,"$40,000.00 ",0,Graduate Degree,Clerical,No,0,0-1 Miles,"New York City, New York",37,Yes,1971
+22930,M,M,"$90,000.00 ",4,Bachelors,Professional,Yes,0,1-2 Miles,"Los Angeles, California",38,Yes,1140
+23780,S,M,"$40,000.00 ",2,Partial College,Clerical,No,2,0-1 Miles,"New York City, New York",36,Yes,3257
+20994,M,F,"$20,000.00 ",0,Bachelors,Clerical,No,0,0-1 Miles,"Los Angeles, California",26,Yes,4198
+28379,M,M,"$30,000.00 ",1,Bachelors,Skilled Manual,Yes,2,0-1 Miles,"New York City, New York",40,No,3847
+14865,S,M,"$40,000.00 ",2,Partial College,Clerical,Yes,2,1-2 Miles,"New York City, New York",36,No,2148
+12663,M,F,"$90,000.00 ",5,Partial High School,Skilled Manual,Yes,2,10+ Miles,"New York City, New York",59,No,4442
+24898,S,F,"$80,000.00 ",0,Bachelors,Professional,Yes,3,10+ Miles,"Los Angeles, California",32,No,4107
+19508,M,M,"$10,000.00 ",0,Partial High School,Manual,No,2,0-1 Miles,"New York City, New York",30,No,1982
+11489,S,F,"$20,000.00 ",0,Partial High School,Manual,No,2,1-2 Miles,"New York City, New York",35,Yes,3168
+18160,M,M,"$130,000.00 ",3,High School,Professional,Yes,4,5-10 Miles,"New York City, New York",51,Yes,4640
+25241,M,M,"$90,000.00 ",2,Bachelors,Professional,Yes,1,5-10 Miles,"Los Angeles, California",47,No,4980
+24369,M,M,"$80,000.00 ",5,Graduate Degree,Management,No,2,0-1 Miles,"Los Angeles, California",39,No,3883
+27165,S,M,"$20,000.00 ",0,Partial High School,Manual,No,2,0-1 Miles,"New York City, New York",34,No,4422
+29424,M,M,"$10,000.00 ",0,Partial High School,Manual,Yes,2,0-1 Miles,"New York City, New York",32,No,1999
+15926,S,F,"$120,000.00 ",3,High School,Professional,Yes,4,5-10 Miles,"New York City, New York",50,Yes,4558
+14554,M,M,"$20,000.00 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",66,No,2481
+16468,S,M,"$30,000.00 ",0,Partial College,Clerical,Yes,1,2-5 Miles,"New York City, New York",30,No,4332
+19174,S,F,"$30,000.00 ",0,High School,Manual,No,1,2-5 Miles,"New York City, New York",32,Yes,2013
+19183,S,M,"$10,000.00 ",0,Partial High School,Manual,Yes,2,1-2 Miles,"New York City, New York",35,No,4493
+13683,S,F,"$30,000.00 ",0,High School,Manual,No,1,2-5 Miles,"New York City, New York",32,No,2314
+17848,S,M,"$30,000.00 ",0,Partial College,Clerical,No,1,2-5 Miles,"New York City, New York",31,Yes,4438
+17894,M,F,"$20,000.00 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",50,Yes,3480
+25651,M,M,"$40,000.00 ",1,Bachelors,Skilled Manual,No,0,0-1 Miles,"New York City, New York",43,Yes,3260
+22936,S,F,"$60,000.00 ",1,Partial College,Skilled Manual,No,1,0-1 Miles,"Los Angeles, California",45,Yes,2715
+23915,M,M,"$20,000.00 ",2,High School,Manual,Yes,2,0-1 Miles,"New York City, New York",42,No,1010
+24121,S,F,"$30,000.00 ",0,Partial College,Clerical,No,1,0-1 Miles,"New York City, New York",29,Yes,4744
+27878,S,M,"$20,000.00 ",0,Partial College,Manual,No,0,0-1 Miles,"Los Angeles, California",28,Yes,3706
+13572,S,M,"$10,000.00 ",3,High School,Manual,Yes,0,0-1 Miles,"New York City, New York",37,Yes,4680
+27941,M,F,"$80,000.00 ",4,Partial College,Professional,Yes,2,2-5 Miles,"New York City, New York",53,No,3331
+26354,S,M,"$40,000.00 ",0,Graduate Degree,Clerical,No,0,0-1 Miles,"New York City, New York",38,Yes,2718
+14785,S,M,"$30,000.00 ",1,Bachelors,Clerical,No,1,1-2 Miles,"New York City, New York",39,No,1945
+17238,S,M,"$80,000.00 ",0,Bachelors,Professional,Yes,3,10+ Miles,"Los Angeles, California",32,No,4061
+23608,M,F,"$150,000.00 ",3,High School,Professional,Yes,3,0-1 Miles,"New York City, New York",51,Yes,4567
+22538,S,F,"$10,000.00 ",0,Partial High School,Manual,Yes,2,1-2 Miles,"New York City, New York",33,No,1416
+12332,M,M,"$90,000.00 ",4,High School,Management,Yes,3,5-10 Miles,"New York City, New York",58,Yes,3017
+17230,M,M,"$80,000.00 ",0,Bachelors,Professional,Yes,3,10+ Miles,"Los Angeles, California",30,No,3853
+13082,S,M,"$130,000.00 ",0,Graduate Degree,Management,Yes,0,2-5 Miles,"Los Angeles, California",48,Yes,3181
+22518,S,F,"$30,000.00 ",3,Partial College,Clerical,No,2,0-1 Miles,"New York City, New York",27,Yes,1015
+13687,M,M,"$40,000.00 ",1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,"New York City, New York",33,Yes,2873
+23571,M,F,"$40,000.00 ",2,Bachelors,Management,Yes,2,0-1 Miles,"Los Angeles, California",66,Yes,3603
+19305,S,F,"$10,000.00 ",2,High School,Manual,Yes,1,0-1 Miles,"New York City, New York",38,Yes,3965
+22636,S,F,"$40,000.00 ",0,Bachelors,Clerical,No,0,0-1 Miles,"New York City, New York",38,Yes,2777
+17310,M,M,"$60,000.00 ",1,Partial College,Skilled Manual,Yes,1,0-1 Miles,"Los Angeles, California",45,Yes,1333
+12133,M,F,"$130,000.00 ",3,Partial College,Professional,Yes,3,5-10 Miles,"New York City, New York",50,Yes,3945
+25918,S,F,"$30,000.00 ",2,Partial College,Clerical,No,2,5-10 Miles,"Los Angeles, California",60,Yes,2810
+25752,S,F,"$20,000.00 ",2,Partial College,Manual,No,1,0-1 Miles,"New York City, New York",53,Yes,1261
+17324,M,F,"$100,000.00 ",4,Bachelors,Professional,Yes,1,10+ Miles,"Los Angeles, California",46,No,3873
+22918,S,M,"$80,000.00 ",5,Graduate Degree,Management,Yes,3,0-1 Miles,"Los Angeles, California",50,No,3240
+12510,M,M,"$40,000.00 ",1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,"New York City, New York",43,Yes,1598
+25512,S,M,"$20,000.00 ",0,High School,Manual,No,1,2-5 Miles,"New York City, New York",30,No,1356
+16179,S,F,"$80,000.00 ",5,Bachelors,Professional,Yes,4,1-2 Miles,"Los Angeles, California",38,No,2871
+15628,M,F,"$40,000.00 ",1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,"New York City, New York",89,No,2752
+20977,M,M,"$20,000.00 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",64,Yes,1237
+18140,M,M,"$130,000.00 ",3,Partial College,Professional,No,3,5-10 Miles,"New York City, New York",51,Yes,2775
+20417,M,M,"$30,000.00 ",3,Partial College,Clerical,No,2,5-10 Miles,"Los Angeles, California",56,No,2745
+18267,M,M,"$60,000.00 ",3,Bachelors,Professional,Yes,2,5-10 Miles,"Los Angeles, California",43,No,4296
+13620,S,M,"$70,000.00 ",0,Bachelors,Professional,No,3,10+ Miles,"Los Angeles, California",30,Yes,1780
+22974,M,F,"$30,000.00 ",2,Partial College,Clerical,Yes,2,5-10 Miles,"Los Angeles, California",69,No,4088
+13586,M,M,"$80,000.00 ",4,Partial College,Professional,Yes,2,10+ Miles,"New York City, New York",53,No,4301
+17978,M,M,"$40,000.00 ",0,Graduate Degree,Clerical,Yes,0,0-1 Miles,"New York City, New York",37,Yes,1839
+12581,S,F,"$10,000.00 ",0,Partial College,Manual,No,1,0-1 Miles,"Los Angeles, California",28,Yes,1751
+18018,S,M,"$30,000.00 ",3,Partial College,Clerical,Yes,0,0-1 Miles,"New York City, New York",43,No,4531
+28957,S,F,"$120,000.00 ",0,Partial High School,Professional,Yes,4,10+ Miles,"Los Angeles, California",34,Yes,2856
+13690,S,F,"$20,000.00 ",0,Partial High School,Manual,No,2,1-2 Miles,"New York City, New York",34,Yes,1890
+12568,M,F,"$30,000.00 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",64,No,4162
+13122,M,F,"$80,000.00 ",0,Bachelors,Professional,Yes,1,1-2 Miles,"Los Angeles, California",41,Yes,2474
+21184,S,M,"$70,000.00 ",0,Bachelors,Professional,No,1,5-10 Miles,"Los Angeles, California",38,No,3871
+26150,S,F,"$70,000.00 ",0,Bachelors,Professional,No,1,0-1 Miles,"Los Angeles, California",41,Yes,3880
+24151,S,M,"$20,000.00 ",1,Bachelors,Clerical,No,0,0-1 Miles,"New York City, New York",51,No,1303
+23962,M,F,"$10,000.00 ",0,Partial High School,Manual,Yes,2,1-2 Miles,"New York City, New York",32,No,1483
+17793,M,F,"$40,000.00 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",38,Yes,4738
+14926,M,M,"$30,000.00 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",38,Yes,1245
+16163,S,M,"$60,000.00 ",2,Bachelors,Professional,Yes,1,2-5 Miles,"Los Angeles, California",38,Yes,1078
+21365,M,F,"$10,000.00 ",2,Partial High School,Clerical,Yes,2,5-10 Miles,"Los Angeles, California",58,No,4281
+27771,S,M,"$30,000.00 ",1,Bachelors,Clerical,Yes,1,1-2 Miles,"New York City, New York",39,Yes,3459
+26167,S,F,"$40,000.00 ",2,Bachelors,Management,No,1,5-10 Miles,"Los Angeles, California",53,Yes,4342
+25792,S,F,"$110,000.00 ",3,Bachelors,Management,Yes,4,10+ Miles,"New York City, New York",53,No,3153
+11555,M,F,"$40,000.00 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",80,No,2416
+22381,M,M,"$10,000.00 ",1,Graduate Degree,Manual,Yes,0,0-1 Miles,"New York City, New York",44,No,2183
+17882,M,M,"$20,000.00 ",1,Graduate Degree,Clerical,Yes,0,0-1 Miles,"New York City, New York",44,No,1961
+22174,M,M,"$30,000.00 ",3,High School,Skilled Manual,Yes,2,5-10 Miles,"Los Angeles, California",54,Yes,2608
+22439,M,F,"$30,000.00 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",37,Yes,2952
+18012,M,F,"$40,000.00 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,"New York City, New York",41,No,3208
+27582,S,F,"$90,000.00 ",2,Bachelors,Professional,No,0,0-1 Miles,"Los Angeles, California",36,Yes,1831
+12744,S,F,"$40,000.00 ",2,Partial College,Clerical,Yes,0,0-1 Miles,"New York City, New York",33,No,1316
+22821,M,F,"$130,000.00 ",3,Partial College,Professional,Yes,4,0-1 Miles,"New York City, New York",52,No,3959
+20171,M,F,"$20,000.00 ",2,Partial College,Manual,Yes,1,0-1 Miles,"New York City, New York",46,Yes,2320
+11116,M,M,"$70,000.00 ",5,Partial College,Skilled Manual,Yes,2,5-10 Miles,"Los Angeles, California",43,No,4797
+20053,S,M,"$40,000.00 ",2,Partial College,Clerical,Yes,0,0-1 Miles,"New York City, New York",34,No,4587
+25266,S,F,"$30,000.00 ",2,Partial College,Clerical,No,2,5-10 Miles,"Los Angeles, California",67,No,3347
+17960,M,F,"$40,000.00 ",0,Graduate Degree,Clerical,Yes,0,0-1 Miles,"New York City, New York",35,Yes,4999
+13961,M,F,"$80,000.00 ",5,Graduate Degree,Management,Yes,3,0-1 Miles,"Los Angeles, California",40,No,2507
+11897,S,M,"$60,000.00 ",2,Bachelors,Professional,No,1,0-1 Miles,"Los Angeles, California",37,Yes,3600
+11139,S,F,"$30,000.00 ",2,Partial College,Clerical,No,2,5-10 Miles,"Los Angeles, California",67,No,1878
+11576,M,M,"$30,000.00 ",1,Bachelors,Skilled Manual,Yes,2,0-1 Miles,"New York City, New York",41,Yes,3664
+19255,S,M,"$10,000.00 ",2,Partial College,Manual,Yes,1,0-1 Miles,"New York City, New York",51,Yes,1289
+18153,M,F,"$100,000.00 ",2,Bachelors,Management,Yes,4,10+ Miles,"New York City, New York",59,No,2356
+14547,M,M,"$10,000.00 ",2,Partial College,Manual,Yes,0,1-2 Miles,"New York City, New York",51,No,4960
+24901,S,M,"$110,000.00 ",0,Partial College,Management,No,3,10+ Miles,"Los Angeles, California",32,Yes,4511
+27169,S,M,"$30,000.00 ",0,High School,Manual,Yes,1,2-5 Miles,"New York City, New York",34,Yes,2286
+14805,S,F,"$10,000.00 ",3,Partial High School,Manual,Yes,2,0-1 Miles,"New York City, New York",43,No,4177
+15822,M,M,"$40,000.00 ",2,Bachelors,Management,Yes,2,0-1 Miles,"Los Angeles, California",67,No,2108
+19389,S,M,"$30,000.00 ",0,Partial College,Clerical,No,1,2-5 Miles,"New York City, New York",28,No,2653
+17048,S,F,"$90,000.00 ",1,Graduate Degree,Management,Yes,0,0-1 Miles,"Los Angeles, California",36,Yes,3142
+22204,M,M,"$110,000.00 ",4,Bachelors,Management,Yes,3,2-5 Miles,"Los Angeles, California",48,No,3456
+12718,S,F,"$30,000.00 ",0,Partial College,Clerical,Yes,1,2-5 Miles,"New York City, New York",31,No,4438
+15019,S,F,"$30,000.00 ",3,High School,Skilled Manual,Yes,2,5-10 Miles,"Los Angeles, California",55,No,3931
+28488,S,M,"$20,000.00 ",0,Partial College,Manual,Yes,0,0-1 Miles,"Los Angeles, California",28,Yes,3188
+21891,M,F,"$110,000.00 ",0,High School,Management,Yes,3,10+ Miles,"Los Angeles, California",34,Yes,1347
+27814,S,F,"$30,000.00 ",3,Partial College,Clerical,No,1,0-1 Miles,"New York City, New York",26,No,2603
+22175,M,F,"$30,000.00 ",3,High School,Skilled Manual,Yes,2,5-10 Miles,"Los Angeles, California",53,Yes,1097
+29447,S,F,"$10,000.00 ",2,Bachelors,Clerical,No,1,2-5 Miles,"New York City, New York",68,No,1268
+19784,M,F,"$80,000.00 ",2,High School,Skilled Manual,Yes,2,5-10 Miles,"Los Angeles, California",50,Yes,3524
+27824,S,F,"$30,000.00 ",3,Partial College,Clerical,Yes,2,0-1 Miles,"New York City, New York",28,Yes,2919
+24093,S,F,"$80,000.00 ",0,Graduate Degree,Skilled Manual,No,0,0-1 Miles,"New York City, New York",40,Yes,3759
+19618,M,M,"$70,000.00 ",5,Partial College,Skilled Manual,Yes,2,0-1 Miles,"Los Angeles, California",44,No,1973
+21561,S,M,"$90,000.00 ",0,Bachelors,Professional,No,3,10+ Miles,"Los Angeles, California",34,Yes,3973
+11061,M,M,"$70,000.00 ",2,Partial College,Skilled Manual,Yes,2,5-10 Miles,"Los Angeles, California",52,Yes,4736
+26651,S,M,"$80,000.00 ",4,Graduate Degree,Management,Yes,0,0-1 Miles,"Los Angeles, California",36,Yes,2214
+21108,M,F,"$40,000.00 ",1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,"New York City, New York",43,Yes,3469
+12731,S,M,"$30,000.00 ",0,High School,Manual,No,1,1-2 Miles,"New York City, New York",32,No,3598
+25307,M,F,"$40,000.00 ",1,Bachelors,Skilled Manual,Yes,1,1-2 Miles,"New York City, New York",32,Yes,4081
+14278,M,F,"$130,000.00 ",0,Graduate Degree,Management,Yes,1,10+ Miles,"Los Angeles, California",48,No,1788
+20711,M,F,"$40,000.00 ",1,Bachelors,Skilled Manual,Yes,0,1-2 Miles,"New York City, New York",32,Yes,3568
+11383,M,F,"$30,000.00 ",3,Graduate Degree,Clerical,Yes,0,0-1 Miles,"New York City, New York",46,No,2693
+12497,M,F,"$40,000.00 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,"New York City, New York",42,No,1255
+16559,S,F,"$10,000.00 ",2,High School,Manual,Yes,0,0-1 Miles,"New York City, New York",36,Yes,2843
+11585,M,F,"$40,000.00 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,"New York City, New York",41,No,1504
+20277,M,F,"$30,000.00 ",2,Partial College,Clerical,No,2,0-1 Miles,"Los Angeles, California",69,No,3195
+26765,S,F,"$70,000.00 ",5,Partial College,Skilled Manual,Yes,2,5-10 Miles,"Los Angeles, California",45,No,4359
+12389,S,M,"$30,000.00 ",0,High School,Manual,No,1,2-5 Miles,"New York City, New York",34,No,1818
+13585,M,F,"$80,000.00 ",4,Partial College,Professional,No,1,2-5 Miles,"New York City, New York",53,Yes,4758
+26385,S,M,"$120,000.00 ",3,High School,Professional,No,4,5-10 Miles,"New York City, New York",50,No,3714
+12236,M,F,"$20,000.00 ",1,Partial College,Manual,Yes,0,0-1 Miles,"New York City, New York",65,No,1826
+21560,M,M,"$120,000.00 ",0,Partial High School,Professional,Yes,4,10+ Miles,"Los Angeles, California",32,Yes,2089
+21554,S,F,"$80,000.00 ",0,Bachelors,Professional,No,3,10+ Miles,"Los Angeles, California",33,No,3033
+13662,S,M,"$20,000.00 ",0,Partial High School,Manual,Yes,2,1-2 Miles,"New York City, New York",31,Yes,3578
+13089,M,F,"$120,000.00 ",1,Bachelors,Management,Yes,2,0-1 Miles,"Los Angeles, California",46,Yes,4311
+14791,M,F,"$40,000.00 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",39,Yes,1515
+19331,S,M,"$20,000.00 ",2,High School,Manual,Yes,1,0-1 Miles,"New York City, New York",40,No,1005
+17754,S,F,"$30,000.00 ",3,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",46,Yes,2956
+11149,M,M,"$40,000.00 ",2,Bachelors,Management,Yes,2,0-1 Miles,"Los Angeles, California",65,No,1771
+16549,S,F,"$30,000.00 ",3,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",47,Yes,3772
+24305,S,M,"$100,000.00 ",1,Bachelors,Management,No,3,0-1 Miles,"Los Angeles, California",46,Yes,4631
+18253,M,F,"$80,000.00 ",5,Graduate Degree,Management,Yes,3,0-1 Miles,"Los Angeles, California",40,No,2625
+20147,M,F,"$30,000.00 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",65,No,3130
+15612,S,M,"$30,000.00 ",0,High School,Manual,No,1,1-2 Miles,"New York City, New York",28,No,4524
+28323,S,M,"$70,000.00 ",0,Bachelors,Professional,No,2,5-10 Miles,"Los Angeles, California",43,Yes,1782
+22634,S,F,"$40,000.00 ",0,Graduate Degree,Clerical,Yes,0,0-1 Miles,"New York City, New York",38,Yes,2389
+15665,M,F,"$30,000.00 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",47,Yes,3460
+27585,M,F,"$90,000.00 ",2,Bachelors,Professional,No,0,0-1 Miles,"Los Angeles, California",36,Yes,1112
+19748,M,M,"$20,000.00 ",4,High School,Skilled Manual,No,2,1-2 Miles,"Los Angeles, California",60,No,4573
+21974,S,F,"$70,000.00 ",0,Bachelors,Professional,Yes,1,5-10 Miles,"Los Angeles, California",42,Yes,1724
+14032,M,M,"$70,000.00 ",2,High School,Skilled Manual,No,2,1-2 Miles,"Los Angeles, California",50,Yes,1292
+22610,M,M,"$30,000.00 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",35,Yes,1625
+26984,M,M,"$40,000.00 ",1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,"New York City, New York",32,Yes,1941
+18294,M,F,"$90,000.00 ",1,Bachelors,Professional,Yes,1,5-10 Miles,"Los Angeles, California",46,No,2529
+28564,S,F,"$40,000.00 ",2,Partial College,Clerical,Yes,0,1-2 Miles,"New York City, New York",33,Yes,1334
+28521,S,M,"$40,000.00 ",0,Graduate Degree,Clerical,No,0,0-1 Miles,"New York City, New York",36,Yes,5000
+15450,M,M,"$10,000.00 ",1,Graduate Degree,Clerical,Yes,0,0-1 Miles,"New York City, New York",70,No,2757
+25681,S,F,"$30,000.00 ",0,Partial College,Clerical,No,1,2-5 Miles,"New York City, New York",31,Yes,1649
+19491,S,M,"$30,000.00 ",2,Partial College,Clerical,Yes,2,0-1 Miles,"New York City, New York",42,No,3397
+26415,M,F,"$90,000.00 ",4,Partial High School,Skilled Manual,Yes,4,10+ Miles,"New York City, New York",58,No,2118
+12821,M,M,"$40,000.00 ",0,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",39,No,4347
+15629,S,F,"$10,000.00 ",0,Partial High School,Manual,Yes,2,1-2 Miles,"New York City, New York",34,No,2327
+27835,M,M,"$20,000.00 ",0,Partial High School,Manual,Yes,2,0-1 Miles,"New York City, New York",32,No,1722
+11738,M,M,"$60,000.00 ",4,Bachelors,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",46,No,4386
+25065,M,M,"$70,000.00 ",2,Partial High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",48,No,4998
+26238,S,F,"$40,000.00 ",3,Partial College,Clerical,Yes,1,1-2 Miles,"Chicago, Illinois",31,Yes,2837
+23707,S,M,"$70,000.00 ",5,Bachelors,Management,Yes,3,10+ Miles,"Chicago, Illinois",60,Yes,2111
+27650,M,M,"$70,000.00 ",4,High School,Professional,Yes,0,5-10 Miles,"Chicago, Illinois",51,No,2770
+24981,M,M,"$60,000.00 ",2,Partial College,Professional,Yes,2,10+ Miles,"Chicago, Illinois",56,No,4784
+20678,S,F,"$60,000.00 ",3,Bachelors,Skilled Manual,Yes,1,2-5 Miles,"Chicago, Illinois",40,Yes,2101
+15302,S,F,"$70,000.00 ",1,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",34,Yes,4340
+26012,M,M,"$80,000.00 ",1,Partial College,Skilled Manual,Yes,1,2-5 Miles,"Chicago, Illinois",48,Yes,3529
+26575,S,F,"$40,000.00 ",0,High School,Skilled Manual,No,2,1-2 Miles,"Chicago, Illinois",31,Yes,1914
+15559,M,M,"$60,000.00 ",5,Bachelors,Professional,Yes,1,2-5 Miles,"Chicago, Illinois",47,No,2619
+19235,M,F,"$50,000.00 ",0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,"Chicago, Illinois",34,No,2578
+15275,M,M,"$40,000.00 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,"Chicago, Illinois",29,No,3032
+20339,M,F,"$130,000.00 ",1,Bachelors,Management,Yes,4,2-5 Miles,"Chicago, Illinois",44,Yes,1077
+25405,M,M,"$70,000.00 ",2,Bachelors,Skilled Manual,Yes,1,2-5 Miles,"Chicago, Illinois",38,Yes,1615
+15940,M,M,"$100,000.00 ",4,Partial College,Professional,Yes,4,0-1 Miles,"Chicago, Illinois",40,No,2172
+25074,M,F,"$70,000.00 ",4,Bachelors,Professional,Yes,2,2-5 Miles,"Chicago, Illinois",42,Yes,3843
+24738,M,F,"$40,000.00 ",1,Partial College,Clerical,Yes,1,1-2 Miles,"Chicago, Illinois",51,Yes,1185
+16337,M,M,"$60,000.00 ",0,Partial College,Skilled Manual,No,2,1-2 Miles,"Chicago, Illinois",29,No,1364
+24357,M,M,"$80,000.00 ",3,Bachelors,Professional,Yes,1,2-5 Miles,"Chicago, Illinois",48,Yes,2053
+18613,S,M,"$70,000.00 ",0,Bachelors,Professional,No,1,2-5 Miles,"Chicago, Illinois",37,Yes,1868
+12207,S,M,"$80,000.00 ",4,Bachelors,Management,Yes,0,5-10 Miles,"Chicago, Illinois",66,Yes,2860
+18052,M,F,"$60,000.00 ",1,Partial College,Skilled Manual,Yes,1,0-1 Miles,"Chicago, Illinois",45,Yes,3584
+13353,S,F,"$60,000.00 ",4,Graduate Degree,Management,Yes,2,10+ Miles,"Chicago, Illinois",61,Yes,1605
+19399,S,M,"$40,000.00 ",0,Bachelors,Professional,No,1,2-5 Miles,"Chicago, Illinois",45,No,1158
+16154,M,F,"$70,000.00 ",5,Bachelors,Professional,Yes,2,2-5 Miles,"Chicago, Illinois",47,No,4797
+22219,M,F,"$60,000.00 ",2,High School,Professional,Yes,2,5-10 Miles,"Chicago, Illinois",49,No,4197
+17269,S,M,"$60,000.00 ",3,Bachelors,Professional,No,0,0-1 Miles,"Chicago, Illinois",47,Yes,2775
+23586,M,F,"$80,000.00 ",0,Bachelors,Management,Yes,1,1-2 Miles,"Chicago, Illinois",34,Yes,2394
+15740,M,M,"$80,000.00 ",5,Bachelors,Management,Yes,2,1-2 Miles,"Chicago, Illinois",64,No,4785
+27638,S,M,"$100,000.00 ",1,Partial College,Professional,No,3,1-2 Miles,"Chicago, Illinois",44,No,3171
+18976,S,M,"$40,000.00 ",4,High School,Professional,Yes,2,10+ Miles,"Chicago, Illinois",62,Yes,2680
+19413,S,M,"$60,000.00 ",3,Bachelors,Professional,No,1,0-1 Miles,"Chicago, Illinois",47,Yes,4077
+13283,M,M,"$80,000.00 ",3,Partial College,Professional,No,2,0-1 Miles,"Chicago, Illinois",49,Yes,3419
+17471,S,F,"$80,000.00 ",4,Graduate Degree,Management,Yes,2,5-10 Miles,"Chicago, Illinois",67,No,3450
+16791,S,M,"$60,000.00 ",5,Bachelors,Management,Yes,3,10+ Miles,"Chicago, Illinois",59,Yes,1327
+15382,M,F,"$110,000.00 ",1,Bachelors,Management,Yes,2,1-2 Miles,"Chicago, Illinois",44,No,2058
+11641,M,M,"$50,000.00 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,"Chicago, Illinois",36,No,4295
+11935,S,F,"$30,000.00 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,"Chicago, Illinois",28,No,2524
+13233,M,M,"$60,000.00 ",2,Partial College,Professional,Yes,1,10+ Miles,"Chicago, Illinois",57,Yes,2155
+25909,M,M,"$60,000.00 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,"Chicago, Illinois",27,Yes,1334
+14092,S,M,"$30,000.00 ",0,Partial High School,Clerical,Yes,2,5-10 Miles,"Chicago, Illinois",28,No,2754
+29143,S,F,"$60,000.00 ",1,Bachelors,Professional,No,1,0-1 Miles,"Chicago, Illinois",44,Yes,1740
+24941,M,M,"$60,000.00 ",3,Bachelors,Management,Yes,2,10+ Miles,"Chicago, Illinois",66,No,2134
+24637,M,M,"$40,000.00 ",4,High School,Professional,Yes,2,10+ Miles,"Chicago, Illinois",64,No,2488
+23893,M,M,"$50,000.00 ",3,Bachelors,Skilled Manual,Yes,3,10+ Miles,"Chicago, Illinois",41,No,2071
+13907,S,F,"$80,000.00 ",3,Bachelors,Skilled Manual,Yes,1,0-1 Miles,"Chicago, Illinois",41,Yes,3025
+14900,M,F,"$40,000.00 ",1,Partial College,Clerical,Yes,1,1-2 Miles,"Chicago, Illinois",49,Yes,3978
+11262,M,F,"$80,000.00 ",4,Bachelors,Management,Yes,0,0-1 Miles,"Chicago, Illinois",42,No,4044
+22294,S,F,"$70,000.00 ",0,Bachelors,Professional,No,1,2-5 Miles,"Chicago, Illinois",37,Yes,1836
+12195,S,F,"$70,000.00 ",3,Graduate Degree,Management,Yes,2,1-2 Miles,"Chicago, Illinois",52,No,4353
+25375,M,M,"$50,000.00 ",1,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,"Chicago, Illinois",34,No,1251
+11143,M,M,"$40,000.00 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",29,No,3594
+25898,M,F,"$70,000.00 ",2,High School,Professional,Yes,2,2-5 Miles,"Chicago, Illinois",53,No,2169
+24397,S,M,"$120,000.00 ",2,Bachelors,Management,No,4,1-2 Miles,"Chicago, Illinois",40,No,1873
+19758,S,M,"$60,000.00 ",0,Partial College,Skilled Manual,No,2,1-2 Miles,"Chicago, Illinois",29,No,4958
+15529,M,M,"$60,000.00 ",4,Bachelors,Professional,Yes,2,2-5 Miles,"Chicago, Illinois",43,Yes,2895
+19884,M,M,"$60,000.00 ",2,High School,Professional,Yes,2,2-5 Miles,"Chicago, Illinois",55,Yes,1824
+18674,S,F,"$80,000.00 ",4,Graduate Degree,Skilled Manual,No,0,0-1 Miles,"Chicago, Illinois",48,No,4727
+13453,M,F,"$130,000.00 ",3,Bachelors,Management,Yes,3,0-1 Miles,"Chicago, Illinois",45,Yes,4915
+14063,S,F,"$70,000.00 ",0,Bachelors,Professional,No,1,0-1 Miles,"Los Angeles, California",42,Yes,4744
+27393,M,F,"$50,000.00 ",4,Bachelors,Management,Yes,2,10+ Miles,"Chicago, Illinois",63,No,3747
+14417,S,M,"$60,000.00 ",3,High School,Professional,Yes,2,10+ Miles,"Chicago, Illinois",54,Yes,1729
+17533,M,M,"$40,000.00 ",3,Partial College,Professional,No,2,5-10 Miles,"Chicago, Illinois",73,Yes,3469
+18580,M,F,"$60,000.00 ",2,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",40,Yes,1354
+17025,S,M,"$50,000.00 ",0,Partial College,Skilled Manual,No,1,2-5 Miles,"Chicago, Illinois",39,Yes,2850
+25293,M,M,"$80,000.00 ",4,Bachelors,Management,Yes,0,1-2 Miles,"Chicago, Illinois",42,No,1363
+24725,M,F,"$40,000.00 ",3,Partial College,Clerical,Yes,0,1-2 Miles,"Chicago, Illinois",31,No,4318
+23200,M,F,"$50,000.00 ",3,Bachelors,Skilled Manual,Yes,2,0-1 Miles,"Chicago, Illinois",41,No,3217
+15895,S,F,"$60,000.00 ",2,Bachelors,Management,Yes,0,10+ Miles,"Chicago, Illinois",58,No,4108
+18577,M,F,"$60,000.00 ",0,Graduate Degree,Professional,Yes,0,0-1 Miles,"Chicago, Illinois",40,No,1063
+27218,M,F,"$20,000.00 ",2,Partial High School,Clerical,No,0,0-1 Miles,"Chicago, Illinois",48,No,3524
+18560,M,F,"$70,000.00 ",2,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",34,Yes,1529
+25006,S,F,"$30,000.00 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,"Chicago, Illinois",28,No,4920
+17369,S,M,"$30,000.00 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,"Chicago, Illinois",27,No,4052
+14495,M,M,"$40,000.00 ",3,Partial College,Professional,No,2,5-10 Miles,"Chicago, Illinois",54,Yes,4988
+18847,M,F,"$60,000.00 ",2,Graduate Degree,Management,Yes,2,5-10 Miles,"Chicago, Illinois",70,No,3683
+14754,M,M,"$40,000.00 ",1,Partial College,Clerical,Yes,1,1-2 Miles,"Chicago, Illinois",48,Yes,2703
+23378,M,M,"$70,000.00 ",1,Partial College,Skilled Manual,Yes,1,2-5 Miles,"Chicago, Illinois",44,Yes,3143
+26452,S,M,"$50,000.00 ",3,Graduate Degree,Management,Yes,2,10+ Miles,"Chicago, Illinois",69,No,2781
+20370,M,M,"$70,000.00 ",3,Partial High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",52,No,2227
+20528,M,M,"$40,000.00 ",2,Partial High School,Skilled Manual,Yes,2,2-5 Miles,"Chicago, Illinois",55,No,3027
+23549,S,M,"$30,000.00 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",30,No,2442
+21751,M,M,"$60,000.00 ",3,Graduate Degree,Management,Yes,2,1-2 Miles,"Chicago, Illinois",63,No,1393
+21266,S,F,"$80,000.00 ",0,Bachelors,Management,Yes,1,1-2 Miles,"Chicago, Illinois",34,Yes,2422
+13388,S,M,"$60,000.00 ",2,Partial College,Professional,Yes,1,10+ Miles,"Chicago, Illinois",56,No,2901
+18752,S,F,"$40,000.00 ",0,High School,Skilled Manual,Yes,1,5-10 Miles,"Chicago, Illinois",31,No,3114
+16917,M,M,"$120,000.00 ",1,Bachelors,Management,Yes,4,0-1 Miles,"Chicago, Illinois",38,No,2346
+15313,M,M,"$60,000.00 ",4,Bachelors,Management,Yes,2,2-5 Miles,"Chicago, Illinois",59,No,3244
+25329,S,F,"$40,000.00 ",3,Partial College,Clerical,No,2,0-1 Miles,"Chicago, Illinois",32,No,4325
+20380,M,F,"$60,000.00 ",3,Graduate Degree,Management,Yes,2,10+ Miles,"Chicago, Illinois",69,No,2835
+23089,M,M,"$40,000.00 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,"Chicago, Illinois",28,No,2424
+13749,M,M,"$80,000.00 ",4,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,"Chicago, Illinois",47,No,4219
+24943,M,M,"$60,000.00 ",3,Bachelors,Management,Yes,2,10+ Miles,"Chicago, Illinois",66,No,1370
+28667,S,M,"$70,000.00 ",2,Bachelors,Skilled Manual,No,1,0-1 Miles,"Chicago, Illinois",37,Yes,2655
+15194,S,M,"$120,000.00 ",2,Bachelors,Management,No,3,0-1 Miles,"Chicago, Illinois",39,Yes,4583
+17436,M,M,"$60,000.00 ",2,High School,Professional,No,2,1-2 Miles,"Chicago, Illinois",51,No,4655
+18935,M,F,"$130,000.00 ",0,Graduate Degree,Management,Yes,3,1-2 Miles,"Chicago, Illinois",40,No,4366
+16871,M,F,"$90,000.00 ",2,High School,Professional,Yes,1,10+ Miles,"Chicago, Illinois",51,Yes,3103
+12100,S,M,"$60,000.00 ",2,Bachelors,Management,Yes,0,10+ Miles,"Chicago, Illinois",57,No,4491
+23158,M,F,"$60,000.00 ",1,Graduate Degree,Professional,No,0,0-1 Miles,"Chicago, Illinois",35,Yes,2281
+18545,M,M,"$40,000.00 ",4,High School,Professional,No,2,10+ Miles,"Chicago, Illinois",61,Yes,3929
+18391,S,F,"$80,000.00 ",5,Partial College,Professional,Yes,2,5-10 Miles,"Chicago, Illinois",44,No,1828
+19812,S,F,"$70,000.00 ",2,Partial College,Professional,Yes,0,5-10 Miles,"Chicago, Illinois",49,Yes,1041
+27660,M,M,"$80,000.00 ",4,Graduate Degree,Management,Yes,2,5-10 Miles,"Chicago, Illinois",70,No,2595
+18058,S,F,"$20,000.00 ",3,High School,Skilled Manual,Yes,2,2-5 Miles,"Chicago, Illinois",78,No,1863
+20343,M,F,"$90,000.00 ",4,Partial College,Professional,Yes,1,1-2 Miles,"Chicago, Illinois",45,No,1469
+28997,S,M,"$40,000.00 ",2,High School,Professional,No,1,2-5 Miles,"Chicago, Illinois",58,Yes,3463
+24398,M,M,"$130,000.00 ",1,Graduate Degree,Management,Yes,4,0-1 Miles,"Chicago, Illinois",41,No,3540
+19002,M,F,"$60,000.00 ",2,Partial College,Professional,Yes,1,2-5 Miles,"Chicago, Illinois",57,Yes,3422
+28609,M,M,"$30,000.00 ",2,High School,Skilled Manual,No,2,0-1 Miles,"Chicago, Illinois",49,No,3825
+29231,S,M,"$80,000.00 ",4,Partial College,Professional,No,2,0-1 Miles,"Chicago, Illinois",43,No,2907
+18858,S,M,"$60,000.00 ",2,Partial High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",52,Yes,4813
+20000,M,M,"$60,000.00 ",1,Graduate Degree,Professional,Yes,0,0-1 Miles,"Chicago, Illinois",35,Yes,4289
+25261,M,M,"$40,000.00 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",27,No,4014
+17458,S,M,"$70,000.00 ",3,High School,Professional,Yes,0,5-10 Miles,"Chicago, Illinois",52,Yes,3702
+11644,S,M,"$40,000.00 ",2,Bachelors,Skilled Manual,Yes,0,2-5 Miles,"Chicago, Illinois",36,No,4922
+16145,S,F,"$70,000.00 ",5,Graduate Degree,Professional,Yes,3,10+ Miles,"Chicago, Illinois",46,Yes,1582
+16890,M,M,"$60,000.00 ",3,Partial High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",52,Yes,3886
+25983,M,M,"$70,000.00 ",0,Bachelors,Professional,No,1,0-1 Miles,"Chicago, Illinois",43,No,3436
+14633,M,M,"$60,000.00 ",1,Partial College,Skilled Manual,Yes,1,2-5 Miles,"Chicago, Illinois",44,No,4326
+22994,M,F,"$80,000.00 ",0,Bachelors,Management,Yes,1,1-2 Miles,"Chicago, Illinois",34,Yes,4072
+22983,S,F,"$30,000.00 ",0,Partial High School,Clerical,Yes,2,5-10 Miles,"Chicago, Illinois",27,No,1471
+25184,S,M,"$110,000.00 ",1,Partial College,Professional,Yes,4,5-10 Miles,"Chicago, Illinois",45,Yes,3505
+14469,M,F,"$100,000.00 ",3,Partial College,Professional,Yes,4,1-2 Miles,"Chicago, Illinois",45,No,3993
+11538,S,F,"$60,000.00 ",4,Graduate Degree,Skilled Manual,No,0,0-1 Miles,"Chicago, Illinois",47,Yes,3289
+16245,S,F,"$80,000.00 ",4,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,"Chicago, Illinois",47,No,2493
+17858,M,M,"$40,000.00 ",4,High School,Skilled Manual,Yes,2,2-5 Miles,"Chicago, Illinois",44,Yes,3693
+25347,S,F,"$20,000.00 ",3,Partial High School,Clerical,No,2,0-1 Miles,"Chicago, Illinois",49,No,4498
+15814,S,F,"$40,000.00 ",0,High School,Skilled Manual,Yes,1,5-10 Miles,"Chicago, Illinois",30,No,4806
+11259,M,F,"$100,000.00 ",4,Partial College,Professional,Yes,4,2-5 Miles,"Chicago, Illinois",41,Yes,2074
+11200,M,M,"$70,000.00 ",4,Bachelors,Management,Yes,1,1-2 Miles,"Chicago, Illinois",58,No,4778
+25101,M,M,"$60,000.00 ",5,Bachelors,Professional,Yes,1,2-5 Miles,"Chicago, Illinois",47,No,4641
+21801,M,F,"$70,000.00 ",4,Partial College,Professional,Yes,1,1-2 Miles,"Chicago, Illinois",55,No,1705
+25943,S,F,"$70,000.00 ",0,Partial College,Skilled Manual,No,2,0-1 Miles,"Chicago, Illinois",27,Yes,3581
+22127,M,M,"$60,000.00 ",3,Graduate Degree,Management,Yes,2,1-2 Miles,"Chicago, Illinois",67,No,1950
+20414,M,F,"$60,000.00 ",0,Partial College,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",29,No,3463
+23672,M,F,"$60,000.00 ",3,Graduate Degree,Management,Yes,2,1-2 Miles,"Chicago, Illinois",67,No,1146
+29255,S,M,"$80,000.00 ",3,Partial College,Professional,No,1,1-2 Miles,"Chicago, Illinois",51,Yes,2365
+28815,M,F,"$50,000.00 ",1,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,"Chicago, Illinois",35,No,3797
+27753,M,M,"$40,000.00 ",0,High School,Skilled Manual,No,2,1-2 Miles,"Chicago, Illinois",30,No,3592
+27643,S,M,"$70,000.00 ",5,Partial College,Professional,Yes,3,2-5 Miles,"Chicago, Illinois",44,No,1498
+13754,S,F,"$80,000.00 ",4,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,"Chicago, Illinois",48,No,4738
+22088,M,F,"$130,000.00 ",1,Bachelors,Management,Yes,2,0-1 Miles,"Chicago, Illinois",45,Yes,3315
+27388,M,M,"$60,000.00 ",3,Bachelors,Management,No,2,1-2 Miles,"Chicago, Illinois",66,No,3353
+24745,S,F,"$30,000.00 ",2,High School,Skilled Manual,No,2,0-1 Miles,"Chicago, Illinois",49,No,3691
+29237,S,F,"$120,000.00 ",4,Partial College,Professional,Yes,3,5-10 Miles,"Chicago, Illinois",43,Yes,2978
+15272,S,M,"$40,000.00 ",0,High School,Skilled Manual,No,2,1-2 Miles,"Chicago, Illinois",30,No,2940
+18949,S,M,"$70,000.00 ",0,Graduate Degree,Management,Yes,2,5-10 Miles,"Chicago, Illinois",74,Yes,3164
+14507,M,M,"$100,000.00 ",2,Graduate Degree,Management,Yes,3,1-2 Miles,"Chicago, Illinois",65,No,1710
+25886,M,F,"$60,000.00 ",2,Partial College,Professional,Yes,2,2-5 Miles,"Chicago, Illinois",56,Yes,3397
+21441,M,M,"$50,000.00 ",4,Bachelors,Management,Yes,2,10+ Miles,"Chicago, Illinois",64,No,1475
+21741,M,F,"$70,000.00 ",3,Partial College,Professional,Yes,2,5-10 Miles,"Chicago, Illinois",50,Yes,3055
+14572,M,F,"$70,000.00 ",3,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",35,Yes,4419
+23368,M,F,"$60,000.00 ",5,Bachelors,Skilled Manual,Yes,3,10+ Miles,"Chicago, Illinois",41,No,3149
+16217,S,F,"$60,000.00 ",0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,"Chicago, Illinois",39,No,4698
+16247,S,F,"$60,000.00 ",4,Graduate Degree,Skilled Manual,No,0,1-2 Miles,"Chicago, Illinois",47,No,3654
+22010,S,M,"$40,000.00 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",31,No,3460
+25872,S,F,"$70,000.00 ",2,Bachelors,Management,No,1,2-5 Miles,"Chicago, Illinois",58,Yes,4319
+19164,S,F,"$70,000.00 ",0,Bachelors,Professional,No,1,2-5 Miles,"Chicago, Illinois",38,Yes,1571
+18435,S,F,"$70,000.00 ",5,Graduate Degree,Management,Yes,2,10+ Miles,"Chicago, Illinois",67,Yes,4561
+14284,S,M,"$60,000.00 ",0,Partial College,Professional,No,2,1-2 Miles,"Chicago, Illinois",32,Yes,2298
+11287,M,M,"$70,000.00 ",5,Partial College,Professional,No,3,5-10 Miles,"Chicago, Illinois",45,No,4789
+13066,S,M,"$30,000.00 ",0,High School,Skilled Manual,No,2,1-2 Miles,"Chicago, Illinois",31,Yes,4429
+29106,S,M,"$40,000.00 ",0,High School,Skilled Manual,No,2,1-2 Miles,"Chicago, Illinois",31,Yes,1504
+26236,M,F,"$40,000.00 ",3,Partial College,Clerical,Yes,1,0-1 Miles,"Chicago, Illinois",31,No,1354
+17531,M,M,"$60,000.00 ",2,High School,Professional,No,2,5-10 Miles,"Chicago, Illinois",50,No,1992
+12964,M,M,"$70,000.00 ",1,Partial College,Skilled Manual,Yes,1,0-1 Miles,"Chicago, Illinois",44,No,4625
+19133,S,M,"$50,000.00 ",2,Bachelors,Skilled Manual,Yes,1,2-5 Miles,"Chicago, Illinois",38,Yes,1520
+24643,S,F,"$60,000.00 ",4,Bachelors,Management,Yes,2,10+ Miles,"Chicago, Illinois",63,No,4640
+21599,M,F,"$60,000.00 ",1,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",36,Yes,3145
+22976,S,M,"$40,000.00 ",0,High School,Skilled Manual,No,2,0-1 Miles,"Chicago, Illinois",28,Yes,3249
+27637,S,F,"$100,000.00 ",1,Partial College,Professional,No,3,1-2 Miles,"Chicago, Illinois",44,No,1141
+11890,M,F,"$70,000.00 ",5,Graduate Degree,Professional,Yes,1,0-1 Miles,"Chicago, Illinois",47,No,1044
+28580,M,F,"$80,000.00 ",0,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,"Chicago, Illinois",40,Yes,4709
+14443,M,M,"$130,000.00 ",1,Graduate Degree,Management,Yes,4,0-1 Miles,"Chicago, Illinois",40,No,2327
+17864,M,F,"$60,000.00 ",1,Partial College,Skilled Manual,Yes,1,2-5 Miles,"Chicago, Illinois",46,Yes,2867
+20505,M,F,"$40,000.00 ",5,High School,Professional,No,2,10+ Miles,"Chicago, Illinois",61,No,1870
+14592,M,F,"$60,000.00 ",0,Graduate Degree,Professional,Yes,0,0-1 Miles,"Chicago, Illinois",40,No,2512
+22227,M,F,"$60,000.00 ",2,High School,Professional,Yes,2,5-10 Miles,"Chicago, Illinois",50,No,4446
+21471,M,M,"$70,000.00 ",2,Partial College,Professional,Yes,1,10+ Miles,"Chicago, Illinois",59,No,1347
+22252,S,F,"$60,000.00 ",1,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",36,Yes,2930
+21260,S,F,"$40,000.00 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",30,No,1235
+11817,S,F,"$70,000.00 ",4,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",35,Yes,4694
+19223,M,F,"$30,000.00 ",2,High School,Skilled Manual,Yes,2,1-2 Miles,"Chicago, Illinois",48,No,4432
+18517,M,M,"$100,000.00 ",3,Bachelors,Management,Yes,4,0-1 Miles,"Chicago, Illinois",41,No,2332
+21717,M,M,"$40,000.00 ",2,Partial College,Clerical,Yes,1,0-1 Miles,"Chicago, Illinois",47,No,3455
+13760,M,M,"$60,000.00 ",4,Graduate Degree,Skilled Manual,No,0,0-1 Miles,"Chicago, Illinois",47,No,1048
+18145,M,M,"$80,000.00 ",5,Bachelors,Management,No,2,2-5 Miles,"New York City, New York",62,No,3715
+21770,M,M,"$60,000.00 ",4,Bachelors,Management,Yes,2,10+ Miles,"Chicago, Illinois",60,No,3388
+11165,M,F,"$60,000.00 ",0,Partial College,Skilled Manual,No,1,1-2 Miles,"Chicago, Illinois",33,No,4055
+16377,S,F,"$80,000.00 ",4,Graduate Degree,Skilled Manual,No,0,0-1 Miles,"Chicago, Illinois",47,No,4031
+26248,M,M,"$20,000.00 ",3,Partial High School,Clerical,No,2,0-1 Miles,"Chicago, Illinois",52,No,4600
+23461,M,F,"$90,000.00 ",5,Partial College,Professional,Yes,3,2-5 Miles,"Chicago, Illinois",40,No,4128
+29133,S,F,"$60,000.00 ",4,Bachelors,Skilled Manual,No,2,0-1 Miles,"Chicago, Illinois",42,No,4466
+27673,S,F,"$60,000.00 ",3,Graduate Degree,Management,Yes,2,5-10 Miles,"Chicago, Illinois",53,Yes,4264
+12774,M,F,"$40,000.00 ",1,Partial College,Clerical,Yes,1,1-2 Miles,"Chicago, Illinois",51,Yes,2693
+18910,S,M,"$30,000.00 ",0,Partial College,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",30,No,3494
+11699,S,M,"$60,000.00 ",0,Bachelors,Skilled Manual,No,2,0-1 Miles,"Chicago, Illinois",30,No,3913
+16725,M,M,"$30,000.00 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",26,No,3070
+28269,S,F,"$130,000.00 ",1,Bachelors,Management,No,1,2-5 Miles,"Chicago, Illinois",45,No,4086
+23144,M,M,"$50,000.00 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,"Chicago, Illinois",34,Yes,3301
+23376,M,M,"$70,000.00 ",1,Bachelors,Professional,Yes,1,2-5 Miles,"Chicago, Illinois",44,Yes,1797
+25970,S,F,"$60,000.00 ",4,Bachelors,Skilled Manual,No,2,0-1 Miles,"Chicago, Illinois",41,Yes,4920
+28068,S,F,"$80,000.00 ",3,Graduate Degree,Professional,No,0,0-1 Miles,"Chicago, Illinois",36,Yes,4895
+18390,M,M,"$80,000.00 ",5,Partial College,Professional,Yes,2,0-1 Miles,"Chicago, Illinois",44,No,4513
+29112,S,M,"$60,000.00 ",0,Partial College,Professional,No,2,1-2 Miles,"Chicago, Illinois",30,No,2038
+14090,M,F,"$30,000.00 ",0,Partial High School,Clerical,No,2,0-1 Miles,"Chicago, Illinois",28,No,4672
+27040,M,M,"$20,000.00 ",2,Partial High School,Clerical,Yes,2,1-2 Miles,"Chicago, Illinois",49,No,3454
+23479,S,M,"$90,000.00 ",0,Partial College,Professional,No,2,0-1 Miles,"Chicago, Illinois",43,Yes,3336
+16795,M,F,"$70,000.00 ",4,Bachelors,Management,Yes,1,1-2 Miles,"Chicago, Illinois",59,No,4233
+22014,S,M,"$30,000.00 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",26,No,2239
+13314,M,M,"$120,000.00 ",1,High School,Professional,Yes,4,5-10 Miles,"Chicago, Illinois",46,Yes,2573
+11619,S,F,"$50,000.00 ",0,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,"Chicago, Illinois",33,No,2519
+29132,S,F,"$40,000.00 ",0,Bachelors,Professional,Yes,1,2-5 Miles,"Chicago, Illinois",42,Yes,3615
+11199,M,F,"$70,000.00 ",4,Bachelors,Management,Yes,1,10+ Miles,"Chicago, Illinois",59,No,4988
+20296,S,F,"$60,000.00 ",0,Partial College,Skilled Manual,No,1,1-2 Miles,"Chicago, Illinois",33,Yes,1042
+17546,M,F,"$70,000.00 ",1,Partial College,Skilled Manual,Yes,1,0-1 Miles,"Chicago, Illinois",44,Yes,3850
+18069,M,M,"$70,000.00 ",5,Bachelors,Management,Yes,4,10+ Miles,"Chicago, Illinois",60,No,3410
+23712,S,F,"$70,000.00 ",2,Bachelors,Management,Yes,1,10+ Miles,"Chicago, Illinois",59,No,3550
+23358,M,M,"$60,000.00 ",0,High School,Professional,Yes,2,5-10 Miles,"Chicago, Illinois",32,Yes,2893
+20518,M,F,"$70,000.00 ",2,Partial College,Professional,Yes,1,10+ Miles,"Chicago, Illinois",58,No,4255
+28026,M,F,"$40,000.00 ",2,High School,Professional,No,2,2-5 Miles,"Chicago, Illinois",59,No,4258
+11669,S,F,"$70,000.00 ",2,Bachelors,Skilled Manual,Yes,1,2-5 Miles,"Chicago, Illinois",38,No,4068
+16020,M,M,"$40,000.00 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",28,Yes,1405
+27090,M,F,"$60,000.00 ",1,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",37,Yes,1061
+27198,S,F,"$80,000.00 ",0,Graduate Degree,Skilled Manual,No,0,0-1 Miles,"Chicago, Illinois",40,No,1098
+19661,S,M,"$90,000.00 ",4,Bachelors,Management,Yes,1,1-2 Miles,"Chicago, Illinois",38,Yes,2318
+26327,M,M,"$70,000.00 ",4,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",36,Yes,4015
+26341,M,F,"$70,000.00 ",5,Graduate Degree,Professional,Yes,2,0-1 Miles,"Chicago, Illinois",37,No,2422
+24958,S,F,"$40,000.00 ",5,High School,Professional,No,3,2-5 Miles,"Chicago, Illinois",60,Yes,1876
+13287,S,M,"$110,000.00 ",4,Bachelors,Management,Yes,4,5-10 Miles,"Chicago, Illinois",42,Yes,4277
+14493,S,F,"$70,000.00 ",3,Graduate Degree,Management,No,2,1-2 Miles,"Chicago, Illinois",53,No,1211
+26678,S,F,"$80,000.00 ",2,Partial High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",49,No,3893
+23275,M,M,"$30,000.00 ",2,High School,Skilled Manual,Yes,2,1-2 Miles,"Chicago, Illinois",49,No,1787
+11270,M,M,"$130,000.00 ",2,Graduate Degree,Management,Yes,3,0-1 Miles,"Chicago, Illinois",42,Yes,3277
+20084,M,M,"$20,000.00 ",2,High School,Manual,No,2,0-1 Miles,"Chicago, Illinois",53,No,3988
+16144,M,M,"$70,000.00 ",1,Graduate Degree,Professional,Yes,1,0-1 Miles,"Chicago, Illinois",46,Yes,1498
+27731,M,M,"$40,000.00 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",27,No,4466
+11886,M,F,"$60,000.00 ",3,Bachelors,Professional,Yes,1,0-1 Miles,"Chicago, Illinois",48,Yes,1371
+24324,S,F,"$60,000.00 ",4,Bachelors,Skilled Manual,Yes,2,2-5 Miles,"Chicago, Illinois",41,Yes,4994
+22220,M,M,"$60,000.00 ",2,High School,Professional,No,2,1-2 Miles,"Chicago, Illinois",49,Yes,2566
+26625,S,F,"$60,000.00 ",0,Graduate Degree,Professional,Yes,1,2-5 Miles,"Chicago, Illinois",38,Yes,4957
+23027,S,M,"$130,000.00 ",1,Bachelors,Management,No,4,0-1 Miles,"Chicago, Illinois",44,No,2757
+16867,S,F,"$130,000.00 ",1,Bachelors,Management,No,3,0-1 Miles,"Chicago, Illinois",45,Yes,4951
+14514,S,F,"$30,000.00 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,"Chicago, Illinois",26,No,4152
+19634,M,M,"$40,000.00 ",0,High School,Skilled Manual,Yes,1,5-10 Miles,"Chicago, Illinois",31,No,2780
+18504,M,M,"$70,000.00 ",2,Partial High School,Skilled Manual,No,2,1-2 Miles,"Chicago, Illinois",49,No,4892
+28799,S,F,"$40,000.00 ",2,Partial College,Clerical,No,1,1-2 Miles,"Chicago, Illinois",47,Yes,3839
+11225,M,F,"$60,000.00 ",2,Partial College,Professional,Yes,1,10+ Miles,"Chicago, Illinois",55,No,4970
+17657,M,M,"$40,000.00 ",4,Partial College,Clerical,No,0,0-1 Miles,"Chicago, Illinois",30,No,3428
+14913,M,F,"$40,000.00 ",1,Partial College,Clerical,Yes,1,1-2 Miles,"Chicago, Illinois",48,Yes,1097
+14077,S,M,"$30,000.00 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",30,No,4512
+13296,M,M,"$110,000.00 ",1,Bachelors,Management,Yes,3,5-10 Miles,"Chicago, Illinois",45,No,4150
+20535,M,F,"$70,000.00 ",4,Partial College,Professional,Yes,1,10+ Miles,"Chicago, Illinois",56,No,1063
+12452,M,M,"$60,000.00 ",4,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,"Chicago, Illinois",47,Yes,3157
+28043,M,F,"$60,000.00 ",2,Bachelors,Management,Yes,0,10+ Miles,"Chicago, Illinois",56,No,1751
+12957,S,F,"$70,000.00 ",1,Bachelors,Professional,No,1,0-1 Miles,"Chicago, Illinois",44,No,3613
+15412,M,M,"$130,000.00 ",2,Graduate Degree,Management,Yes,3,2-5 Miles,"Chicago, Illinois",69,No,3574
+20514,M,F,"$70,000.00 ",2,Partial College,Professional,Yes,1,2-5 Miles,"Chicago, Illinois",59,No,4610
+20758,M,M,"$30,000.00 ",2,High School,Skilled Manual,Yes,2,1-2 Miles,"Chicago, Illinois",50,No,4028
+11801,M,M,"$60,000.00 ",1,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",36,No,1300
+22211,M,M,"$60,000.00 ",0,Partial College,Professional,Yes,2,5-10 Miles,"Chicago, Illinois",32,No,2454
+28087,S,F,"$40,000.00 ",0,Partial College,Skilled Manual,No,1,1-2 Miles,"Chicago, Illinois",27,No,3206
+23668,M,F,"$40,000.00 ",4,High School,Professional,Yes,2,5-10 Miles,"Chicago, Illinois",59,Yes,3877
+27441,M,M,"$60,000.00 ",3,High School,Professional,No,2,2-5 Miles,"Chicago, Illinois",53,No,4683
+27261,M,M,"$40,000.00 ",1,Bachelors,Skilled Manual,No,1,0-1 Miles,"Chicago, Illinois",36,Yes,2558
+18649,S,M,"$30,000.00 ",1,High School,Clerical,Yes,2,1-2 Miles,"Chicago, Illinois",51,Yes,4423
+21714,S,F,"$80,000.00 ",5,Graduate Degree,Skilled Manual,No,0,0-1 Miles,"Chicago, Illinois",47,No,4834
+23217,S,F,"$60,000.00 ",3,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",43,Yes,3829
+23797,S,M,"$20,000.00 ",3,Partial High School,Clerical,No,2,0-1 Miles,"Chicago, Illinois",50,No,4221
+13216,M,F,"$60,000.00 ",5,Bachelors,Management,Yes,3,10+ Miles,"Chicago, Illinois",59,No,2241
+20657,S,M,"$50,000.00 ",2,Bachelors,Skilled Manual,Yes,0,2-5 Miles,"Chicago, Illinois",37,Yes,2825
+12882,M,M,"$50,000.00 ",1,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,"Chicago, Illinois",33,Yes,1845
+25908,M,F,"$60,000.00 ",0,Partial College,Skilled Manual,No,1,1-2 Miles,"Chicago, Illinois",27,No,4682
+16753,S,F,"$70,000.00 ",0,Partial College,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",34,Yes,4710
+14608,M,M,"$50,000.00 ",4,Bachelors,Skilled Manual,Yes,3,10+ Miles,"Chicago, Illinois",42,No,2957
+24979,M,F,"$60,000.00 ",2,Partial College,Professional,Yes,2,2-5 Miles,"Chicago, Illinois",57,Yes,2156
+13313,M,F,"$120,000.00 ",1,High School,Professional,No,4,2-5 Miles,"Chicago, Illinois",45,No,3236
+18952,M,F,"$100,000.00 ",4,Bachelors,Management,Yes,4,0-1 Miles,"Chicago, Illinois",40,No,3459
+17699,M,M,"$60,000.00 ",1,Graduate Degree,Skilled Manual,No,0,0-1 Miles,"Chicago, Illinois",55,No,1363
+14657,M,M,"$80,000.00 ",1,Partial College,Skilled Manual,No,1,0-1 Miles,"Chicago, Illinois",47,Yes,4425
+11540,S,M,"$60,000.00 ",4,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,"Chicago, Illinois",47,Yes,1205
+11783,M,F,"$60,000.00 ",1,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,"Chicago, Illinois",34,No,1968
+14602,M,F,"$80,000.00 ",3,Graduate Degree,Professional,Yes,0,0-1 Miles,"Chicago, Illinois",36,Yes,2018
+29030,M,M,"$70,000.00 ",2,Partial High School,Skilled Manual,Yes,2,10+ Miles,"Chicago, Illinois",54,No,1265
+26490,S,M,"$70,000.00 ",2,Bachelors,Management,No,1,2-5 Miles,"Chicago, Illinois",59,Yes,2618
+13151,S,M,"$40,000.00 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",27,No,1977
+17260,M,M,"$90,000.00 ",5,Partial College,Professional,Yes,3,0-1 Miles,"Chicago, Illinois",41,No,1778
+15372,M,M,"$80,000.00 ",3,Partial College,Professional,No,2,2-5 Miles,"Chicago, Illinois",50,Yes,2143
+18105,M,F,"$60,000.00 ",2,Partial College,Professional,Yes,1,10+ Miles,"Chicago, Illinois",55,No,2006
+19660,M,M,"$80,000.00 ",4,Bachelors,Management,Yes,0,0-1 Miles,"Chicago, Illinois",43,No,2727
+16112,S,M,"$70,000.00 ",4,Bachelors,Professional,Yes,2,2-5 Miles,"Chicago, Illinois",43,Yes,2981
+20698,M,M,"$60,000.00 ",4,Bachelors,Skilled Manual,Yes,3,5-10 Miles,"Chicago, Illinois",42,No,4120
+20076,S,F,"$10,000.00 ",2,High School,Manual,Yes,2,1-2 Miles,"Chicago, Illinois",53,Yes,3959
+24496,S,F,"$40,000.00 ",0,High School,Skilled Manual,No,2,0-1 Miles,"Chicago, Illinois",28,Yes,1655
+15468,M,F,"$50,000.00 ",1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,"Chicago, Illinois",35,No,1519
+28031,S,F,"$70,000.00 ",2,Bachelors,Management,No,1,2-5 Miles,"Chicago, Illinois",59,Yes,1136
+26270,S,F,"$20,000.00 ",2,Partial High School,Clerical,Yes,2,1-2 Miles,"Chicago, Illinois",49,No,3774
+22221,M,M,"$60,000.00 ",2,High School,Professional,No,2,1-2 Miles,"Chicago, Illinois",48,Yes,2755
+28228,S,F,"$80,000.00 ",2,Partial High School,Skilled Manual,No,2,1-2 Miles,"Chicago, Illinois",50,No,1498
+18363,M,M,"$40,000.00 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",28,Yes,2062
+23256,S,M,"$30,000.00 ",1,High School,Clerical,No,1,5-10 Miles,"Chicago, Illinois",52,No,4409
+12768,M,M,"$30,000.00 ",1,High School,Clerical,Yes,1,2-5 Miles,"Chicago, Illinois",52,Yes,3520
+20361,M,M,"$50,000.00 ",2,Graduate Degree,Management,Yes,2,5-10 Miles,"Chicago, Illinois",69,No,3318
+21306,S,M,"$60,000.00 ",2,High School,Professional,Yes,2,5-10 Miles,"Chicago, Illinois",51,No,4455
+13382,M,M,"$70,000.00 ",5,Partial College,Professional,Yes,2,1-2 Miles,"Chicago, Illinois",57,Yes,3267
+20310,S,M,"$60,000.00 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,"Chicago, Illinois",27,Yes,1020
+22971,S,F,"$30,000.00 ",0,High School,Skilled Manual,No,2,0-1 Miles,"Chicago, Illinois",25,Yes,2288
+15287,S,F,"$50,000.00 ",1,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,"Chicago, Illinois",33,Yes,4196
+15532,S,M,"$60,000.00 ",4,Bachelors,Professional,Yes,2,2-5 Miles,"Chicago, Illinois",43,Yes,1793
+11255,M,M,"$70,000.00 ",4,Graduate Degree,Management,Yes,2,5-10 Miles,"Chicago, Illinois",73,No,3716
+28090,M,M,"$40,000.00 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,"Chicago, Illinois",27,No,3127
+15255,M,M,"$40,000.00 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",28,Yes,3773
+13154,M,M,"$40,000.00 ",0,High School,Skilled Manual,No,2,0-1 Miles,"Chicago, Illinois",27,Yes,1865
+26778,S,F,"$40,000.00 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",31,No,3800
+23248,M,F,"$10,000.00 ",2,High School,Manual,Yes,2,1-2 Miles,"Chicago, Illinois",53,No,4638
+21417,S,F,"$60,000.00 ",0,Partial College,Professional,No,2,1-2 Miles,"Chicago, Illinois",32,Yes,1504
+17668,S,M,"$30,000.00 ",2,High School,Skilled Manual,Yes,2,1-2 Miles,"Chicago, Illinois",50,Yes,1418
+27994,M,F,"$40,000.00 ",4,High School,Professional,Yes,2,5-10 Miles,"Chicago, Illinois",69,No,1627
+20376,S,F,"$70,000.00 ",3,Graduate Degree,Management,Yes,2,5-10 Miles,"Chicago, Illinois",52,Yes,2812
+25954,M,M,"$60,000.00 ",0,Partial College,Skilled Manual,No,2,1-2 Miles,"Chicago, Illinois",31,No,4190
+15749,S,F,"$70,000.00 ",4,Bachelors,Management,Yes,2,10+ Miles,"Chicago, Illinois",61,No,2837
+25899,M,F,"$70,000.00 ",2,High School,Professional,Yes,2,10+ Miles,"Chicago, Illinois",53,No,4395
+13351,S,F,"$70,000.00 ",4,Bachelors,Management,Yes,2,1-2 Miles,"Chicago, Illinois",62,Yes,1890
+23333,M,M,"$40,000.00 ",0,Partial College,Skilled Manual,No,2,1-2 Miles,"Chicago, Illinois",30,No,4760
+21660,M,F,"$60,000.00 ",3,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",43,Yes,1587
+17012,M,F,"$60,000.00 ",3,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",42,Yes,4980
+24514,M,M,"$40,000.00 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,"Chicago, Illinois",30,No,2973
+27505,S,F,"$40,000.00 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",30,No,1952
+29243,S,M,"$110,000.00 ",1,Bachelors,Management,Yes,1,5-10 Miles,"Chicago, Illinois",43,No,2006
+26582,M,M,"$60,000.00 ",0,Partial College,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",33,Yes,4452
+14271,M,M,"$30,000.00 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",32,No,1743
+23041,S,F,"$70,000.00 ",4,High School,Professional,Yes,0,5-10 Miles,"Chicago, Illinois",50,Yes,2507
+29048,S,M,"$110,000.00 ",2,Bachelors,Management,No,3,0-1 Miles,"Chicago, Illinois",37,Yes,2755
+24433,M,M,"$70,000.00 ",3,High School,Professional,No,1,1-2 Miles,"Chicago, Illinois",52,Yes,2409
+15501,M,M,"$70,000.00 ",4,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",36,Yes,2907
+13911,S,F,"$80,000.00 ",3,Bachelors,Skilled Manual,Yes,2,2-5 Miles,"Chicago, Illinois",41,Yes,4653
+20421,S,F,"$40,000.00 ",0,Partial High School,Clerical,Yes,2,5-10 Miles,"Chicago, Illinois",26,No,1709
+16009,S,M,"$170,000.00 ",1,Graduate Degree,Management,No,4,0-1 Miles,"Chicago, Illinois",66,No,3739
+18411,M,M,"$60,000.00 ",2,High School,Professional,No,2,5-10 Miles,"Chicago, Illinois",51,No,4413
+19163,M,F,"$70,000.00 ",4,Bachelors,Professional,Yes,2,0-1 Miles,"Chicago, Illinois",43,Yes,1991
+18572,M,F,"$60,000.00 ",0,Graduate Degree,Professional,Yes,0,0-1 Miles,"Chicago, Illinois",39,No,4744
+27540,S,F,"$70,000.00 ",0,Bachelors,Professional,No,1,0-1 Miles,"Chicago, Illinois",37,Yes,2634
+19889,S,F,"$70,000.00 ",2,Partial High School,Skilled Manual,No,2,2-5 Miles,"Chicago, Illinois",54,Yes,1822
+12922,S,F,"$60,000.00 ",3,Bachelors,Skilled Manual,Yes,0,2-5 Miles,"Chicago, Illinois",40,Yes,3178
+18891,M,F,"$40,000.00 ",0,Partial College,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",28,No,1001
+16773,M,M,"$60,000.00 ",1,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,"Chicago, Illinois",33,No,4212
+19143,S,F,"$80,000.00 ",3,Bachelors,Skilled Manual,Yes,2,2-5 Miles,"Chicago, Illinois",41,Yes,2853
+23882,S,F,"$80,000.00 ",3,Graduate Degree,Professional,Yes,0,0-1 Miles,"Chicago, Illinois",37,Yes,2827
+11233,M,M,"$70,000.00 ",4,Partial College,Professional,Yes,2,10+ Miles,"Chicago, Illinois",53,No,3467
+12056,M,M,"$120,000.00 ",2,Graduate Degree,Management,Yes,3,5-10 Miles,"Chicago, Illinois",64,No,3424
+15555,M,F,"$60,000.00 ",1,Partial College,Skilled Manual,Yes,1,2-5 Miles,"Chicago, Illinois",45,Yes,2404
+18423,S,M,"$80,000.00 ",2,Partial High School,Skilled Manual,No,2,1-2 Miles,"Chicago, Illinois",52,No,4954
+22743,M,F,"$40,000.00 ",5,High School,Professional,Yes,2,10+ Miles,"Chicago, Illinois",60,No,1629
+25343,S,F,"$20,000.00 ",3,Partial High School,Clerical,Yes,2,1-2 Miles,"Chicago, Illinois",50,No,4027
+13390,M,F,"$70,000.00 ",4,Partial College,Professional,No,1,1-2 Miles,"Chicago, Illinois",56,No,3240
+17482,S,F,"$40,000.00 ",0,Partial High School,Clerical,Yes,2,5-10 Miles,"Chicago, Illinois",29,No,4348
+13176,S,M,"$130,000.00 ",0,Graduate Degree,Management,No,2,0-1 Miles,"Chicago, Illinois",38,Yes,2304
+20504,M,F,"$40,000.00 ",5,High School,Professional,No,2,2-5 Miles,"Chicago, Illinois",60,No,4393
+12205,S,F,"$130,000.00 ",2,Bachelors,Management,No,4,0-1 Miles,"Chicago, Illinois",67,No,3579
+16751,M,M,"$60,000.00 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,"Chicago, Illinois",32,Yes,3852
+21613,S,M,"$50,000.00 ",2,Bachelors,Skilled Manual,No,1,0-1 Miles,"Chicago, Illinois",39,Yes,3850
+24801,S,M,"$60,000.00 ",1,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",35,Yes,4683
+17519,M,F,"$60,000.00 ",0,Partial College,Professional,Yes,2,5-10 Miles,"Chicago, Illinois",32,No,3010
+18347,S,F,"$30,000.00 ",0,Partial College,Skilled Manual,No,1,1-2 Miles,"Chicago, Illinois",31,No,2545
+29052,S,M,"$40,000.00 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,"Chicago, Illinois",27,No,4738
+11745,M,F,"$60,000.00 ",1,Bachelors,Professional,Yes,1,0-1 Miles,"Chicago, Illinois",47,Yes,1875
+19147,M,M,"$40,000.00 ",0,Bachelors,Professional,No,1,0-1 Miles,"Chicago, Illinois",42,No,1297
+19217,M,M,"$30,000.00 ",2,High School,Skilled Manual,Yes,2,1-2 Miles,"Chicago, Illinois",49,No,2980
+15839,S,M,"$30,000.00 ",0,Partial College,Skilled Manual,Yes,1,5-10 Miles,"Chicago, Illinois",32,No,4494
+13714,M,F,"$20,000.00 ",2,High School,Manual,No,2,1-2 Miles,"Chicago, Illinois",53,Yes,1489
+22330,M,M,"$50,000.00 ",0,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,"Chicago, Illinois",32,Yes,3710
+18783,S,M,"$80,000.00 ",0,Bachelors,Management,No,1,0-1 Miles,"Chicago, Illinois",38,Yes,2951
+25041,S,M,"$40,000.00 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",31,No,1537
+22046,S,F,"$80,000.00 ",0,Bachelors,Management,No,1,0-1 Miles,"Chicago, Illinois",38,Yes,1368
+28052,M,M,"$60,000.00 ",2,High School,Professional,Yes,2,10+ Miles,"Chicago, Illinois",55,No,3117
+26693,M,M,"$70,000.00 ",3,Partial College,Professional,Yes,1,5-10 Miles,"Chicago, Illinois",49,No,4619
+24955,S,M,"$30,000.00 ",5,Partial High School,Skilled Manual,Yes,3,10+ Miles,"Chicago, Illinois",60,Yes,1996
+26065,S,F,"$110,000.00 ",3,Bachelors,Management,No,4,1-2 Miles,"Chicago, Illinois",42,No,3305
+13942,M,M,"$60,000.00 ",1,Partial College,Skilled Manual,Yes,1,0-1 Miles,"Chicago, Illinois",46,No,1122
+11219,M,M,"$60,000.00 ",2,High School,Professional,Yes,2,10+ Miles,"Chicago, Illinois",55,No,4897
+22118,S,F,"$70,000.00 ",3,Graduate Degree,Management,Yes,2,5-10 Miles,"Chicago, Illinois",53,Yes,3689
+23197,M,M,"$50,000.00 ",3,Bachelors,Skilled Manual,Yes,2,2-5 Miles,"Chicago, Illinois",40,No,1624
+14883,M,F,"$30,000.00 ",1,Bachelors,Skilled Manual,Yes,1,5-10 Miles,"Chicago, Illinois",53,Yes,1821
+27279,S,F,"$70,000.00 ",2,Bachelors,Skilled Manual,Yes,0,2-5 Miles,"Chicago, Illinois",38,Yes,2158
+18322,S,M,"$30,000.00 ",0,Partial High School,Clerical,No,2,0-1 Miles,"Chicago, Illinois",26,No,2808
+15879,M,M,"$70,000.00 ",5,Bachelors,Management,Yes,2,2-5 Miles,"Chicago, Illinois",61,No,3406
+28278,M,M,"$50,000.00 ",2,Graduate Degree,Management,Yes,2,5-10 Miles,"Chicago, Illinois",71,No,2366
+24416,M,M,"$90,000.00 ",4,High School,Professional,Yes,2,1-2 Miles,"Chicago, Illinois",45,No,4357
+28066,M,M,"$80,000.00 ",2,Graduate Degree,Professional,Yes,0,0-1 Miles,"Chicago, Illinois",37,Yes,1634
+11275,M,F,"$80,000.00 ",4,Graduate Degree,Management,Yes,2,0-1 Miles,"Chicago, Illinois",72,Yes,1775
+14872,M,M,"$30,000.00 ",0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,"Chicago, Illinois",32,No,3661
+16151,M,F,"$60,000.00 ",1,Bachelors,Professional,Yes,1,2-5 Miles,"Chicago, Illinois",48,Yes,2781
+19731,M,M,"$80,000.00 ",4,Graduate Degree,Management,Yes,2,5-10 Miles,"Chicago, Illinois",68,No,1116
+23801,M,F,"$20,000.00 ",2,Partial High School,Clerical,Yes,2,0-1 Miles,"Chicago, Illinois",49,No,3474
+11807,M,M,"$70,000.00 ",3,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",34,No,2236
+11622,M,M,"$50,000.00 ",0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,"Chicago, Illinois",32,No,3134
+26597,S,F,"$60,000.00 ",4,Bachelors,Skilled Manual,No,2,0-1 Miles,"Chicago, Illinois",42,No,4498
+27074,M,F,"$70,000.00 ",1,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,"Chicago, Illinois",35,Yes,2220
+19228,M,F,"$40,000.00 ",2,Partial College,Clerical,Yes,1,0-1 Miles,"Chicago, Illinois",48,No,3097
+13415,S,M,"$100,000.00 ",1,Graduate Degree,Management,Yes,3,2-5 Miles,"Chicago, Illinois",73,Yes,3967
+17000,S,F,"$70,000.00 ",4,Bachelors,Skilled Manual,Yes,2,2-5 Miles,"Chicago, Illinois",43,Yes,2837
+14569,M,M,"$60,000.00 ",1,Graduate Degree,Professional,Yes,0,0-1 Miles,"Chicago, Illinois",35,No,2040
+13873,M,M,"$70,000.00 ",3,Graduate Degree,Professional,Yes,0,0-1 Miles,"Chicago, Illinois",35,Yes,3551
+20401,M,F,"$50,000.00 ",4,Bachelors,Management,Yes,2,1-2 Miles,"Chicago, Illinois",64,Yes,3650
+21583,M,F,"$50,000.00 ",1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,"Chicago, Illinois",34,Yes,4328
+12029,M,M,"$30,000.00 ",0,Partial High School,Clerical,No,2,0-1 Miles,"Chicago, Illinois",28,No,4982
+18066,S,M,"$70,000.00 ",5,Bachelors,Management,Yes,3,10+ Miles,"Chicago, Illinois",60,Yes,3747
+28192,M,F,"$70,000.00 ",5,Graduate Degree,Professional,Yes,3,10+ Miles,"Chicago, Illinois",46,No,2466
+16122,M,M,"$40,000.00 ",4,High School,Skilled Manual,Yes,2,0-1 Miles,"Chicago, Illinois",44,Yes,1722
+18607,S,F,"$60,000.00 ",4,Bachelors,Skilled Manual,Yes,2,2-5 Miles,"Chicago, Illinois",42,Yes,3852
+28858,S,M,"$80,000.00 ",3,Bachelors,Skilled Manual,Yes,0,2-5 Miles,"Chicago, Illinois",40,No,3790
+14432,S,M,"$90,000.00 ",4,Graduate Degree,Management,Yes,1,5-10 Miles,"Chicago, Illinois",73,No,1583
+26305,S,F,"$60,000.00 ",2,Bachelors,Skilled Manual,No,0,0-1 Miles,"Chicago, Illinois",36,Yes,1189
+22050,S,M,"$90,000.00 ",4,Bachelors,Management,Yes,1,1-2 Miles,"Chicago, Illinois",38,Yes,3603
+25394,M,M,"$60,000.00 ",1,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",34,Yes,4419
+19747,M,M,"$50,000.00 ",4,Bachelors,Management,Yes,2,10+ Miles,"Chicago, Illinois",63,No,2639
+23195,S,M,"$50,000.00 ",3,Bachelors,Skilled Manual,Yes,2,2-5 Miles,"Chicago, Illinois",41,Yes,2827
+21695,M,M,"$60,000.00 ",0,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,"Chicago, Illinois",39,Yes,2268
+13934,M,M,"$40,000.00 ",4,High School,Skilled Manual,Yes,2,2-5 Miles,"Chicago, Illinois",46,No,1094
+13337,M,F,"$80,000.00 ",5,Bachelors,Management,Yes,2,5-10 Miles,"Chicago, Illinois",64,No,3916
+27190,M,F,"$40,000.00 ",3,Partial College,Clerical,Yes,1,1-2 Miles,"Chicago, Illinois",32,No,1170
+28657,S,M,"$60,000.00 ",2,Bachelors,Skilled Manual,Yes,0,2-5 Miles,"Chicago, Illinois",36,Yes,2659
+21713,S,M,"$80,000.00 ",5,Graduate Degree,Skilled Manual,No,0,0-1 Miles,"Chicago, Illinois",47,No,4938
+21752,M,M,"$60,000.00 ",3,Graduate Degree,Management,Yes,2,10+ Miles,"Chicago, Illinois",64,No,2335
+27273,S,M,"$70,000.00 ",3,Graduate Degree,Professional,No,0,0-1 Miles,"Chicago, Illinois",35,Yes,1933
+22719,S,M,"$110,000.00 ",3,Bachelors,Management,Yes,4,2-5 Miles,"Chicago, Illinois",40,Yes,4498
+22042,M,F,"$70,000.00 ",0,Partial College,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",34,Yes,4194
+21451,M,F,"$40,000.00 ",4,High School,Professional,Yes,2,10+ Miles,"Chicago, Illinois",61,No,1389
+20754,M,M,"$30,000.00 ",2,High School,Skilled Manual,Yes,2,1-2 Miles,"Chicago, Illinois",51,No,2756
+12153,S,F,"$70,000.00 ",3,Partial College,Professional,Yes,1,5-10 Miles,"Chicago, Illinois",49,Yes,3243
+16895,M,F,"$40,000.00 ",3,Partial College,Professional,No,2,1-2 Miles,"Chicago, Illinois",54,Yes,2600
+26728,S,M,"$70,000.00 ",3,Graduate Degree,Management,No,2,1-2 Miles,"Chicago, Illinois",53,Yes,1195
+11090,S,M,"$90,000.00 ",2,Partial College,Professional,Yes,1,2-5 Miles,"Chicago, Illinois",48,Yes,2793
+15862,S,F,"$50,000.00 ",0,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,"Chicago, Illinois",33,Yes,1058
+26495,S,F,"$40,000.00 ",2,High School,Professional,Yes,2,10+ Miles,"Chicago, Illinois",57,No,4604
+11823,M,F,"$70,000.00 ",0,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",39,No,4175
+23449,M,M,"$60,000.00 ",2,High School,Professional,Yes,2,5-10 Miles,"Chicago, Illinois",48,No,1028
+23459,M,M,"$60,000.00 ",2,High School,Professional,Yes,2,5-10 Miles,"Chicago, Illinois",50,No,3251
+19543,M,M,"$70,000.00 ",5,Graduate Degree,Professional,No,3,10+ Miles,"Chicago, Illinois",47,No,4141
+14914,M,F,"$40,000.00 ",1,Partial College,Clerical,Yes,1,1-2 Miles,"Chicago, Illinois",49,Yes,1280
+12033,S,F,"$40,000.00 ",0,High School,Skilled Manual,No,2,0-1 Miles,"Chicago, Illinois",27,Yes,2516
+11941,S,M,"$60,000.00 ",0,Partial College,Skilled Manual,Yes,0,5-10 Miles,"Chicago, Illinois",29,No,1001
+14389,M,M,"$60,000.00 ",2,Bachelors,Management,Yes,0,2-5 Miles,"Chicago, Illinois",59,No,2915
+18050,M,F,"$60,000.00 ",1,Partial College,Skilled Manual,Yes,1,0-1 Miles,"Chicago, Illinois",45,Yes,1076
+19856,M,F,"$60,000.00 ",4,Bachelors,Management,Yes,2,2-5 Miles,"Chicago, Illinois",60,No,3172
+11663,M,M,"$70,000.00 ",4,Graduate Degree,Professional,Yes,0,0-1 Miles,"Chicago, Illinois",36,Yes,2110
+27740,M,F,"$40,000.00 ",0,High School,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",27,No,4341
+23455,S,M,"$80,000.00 ",2,Partial High School,Skilled Manual,No,2,1-2 Miles,"Chicago, Illinois",50,No,2500
+15292,S,F,"$60,000.00 ",1,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,"Chicago, Illinois",35,No,4647
+21587,M,F,"$60,000.00 ",1,Graduate Degree,Skilled Manual,Yes,0,2-5 Miles,"Chicago, Illinois",34,Yes,3636
+23513,M,F,"$40,000.00 ",3,Partial College,Professional,Yes,2,5-10 Miles,"Chicago, Illinois",54,No,1788
+24322,M,F,"$60,000.00 ",4,Bachelors,Skilled Manual,No,2,0-1 Miles,"Chicago, Illinois",42,No,2834
+26298,M,F,"$50,000.00 ",1,Bachelors,Skilled Manual,Yes,0,2-5 Miles,"Chicago, Illinois",34,Yes,1705
+25419,S,M,"$50,000.00 ",2,Bachelors,Skilled Manual,No,1,0-1 Miles,"Chicago, Illinois",38,Yes,1119
+13343,M,F,"$90,000.00 ",5,Bachelors,Management,Yes,2,1-2 Miles,"Chicago, Illinois",63,Yes,1698
+11303,S,F,"$90,000.00 ",4,High School,Professional,No,3,1-2 Miles,"Chicago, Illinois",45,Yes,4503
+21693,S,F,"$60,000.00 ",0,Graduate Degree,Skilled Manual,No,0,0-1 Miles,"Chicago, Illinois",40,No,2017
+28056,M,M,"$70,000.00 ",2,Partial High School,Skilled Manual,Yes,2,10+ Miles,"Chicago, Illinois",53,No,4155
+11788,S,F,"$70,000.00 ",1,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",34,No,2677
+22296,M,M,"$70,000.00 ",0,Bachelors,Professional,No,1,0-1 Miles,"Chicago, Illinois",38,No,2881
+15319,M,F,"$70,000.00 ",4,Bachelors,Management,No,1,1-2 Miles,"Chicago, Illinois",59,No,3374
+17654,S,F,"$40,000.00 ",3,Partial College,Clerical,Yes,1,1-2 Miles,"Chicago, Illinois",30,Yes,2899
+14662,M,M,"$60,000.00 ",1,Bachelors,Professional,Yes,1,0-1 Miles,"Chicago, Illinois",48,Yes,4660
+17541,M,F,"$40,000.00 ",4,High School,Skilled Manual,Yes,2,2-5 Miles,"Chicago, Illinois",43,No,2498
+13886,M,F,"$70,000.00 ",4,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",35,Yes,3631
+13073,M,F,"$60,000.00 ",0,Partial College,Professional,Yes,2,5-10 Miles,"Chicago, Illinois",30,No,3207
+21940,M,M,"$90,000.00 ",5,Graduate Degree,Professional,Yes,0,0-1 Miles,"Chicago, Illinois",47,Yes,3280
+20196,M,M,"$60,000.00 ",1,Partial College,Skilled Manual,Yes,1,2-5 Miles,"Chicago, Illinois",45,Yes,4271
+23491,S,M,"$100,000.00 ",0,Partial College,Professional,No,4,1-2 Miles,"Chicago, Illinois",45,No,3863
+16651,M,F,"$120,000.00 ",2,Bachelors,Management,Yes,3,5-10 Miles,"Chicago, Illinois",62,No,4306
+16813,M,M,"$60,000.00 ",2,Partial College,Professional,Yes,2,10+ Miles,"Chicago, Illinois",55,No,3948
+16007,M,F,"$90,000.00 ",5,Bachelors,Management,Yes,2,1-2 Miles,"Chicago, Illinois",66,Yes,3940
+27434,S,M,"$70,000.00 ",4,Partial College,Professional,Yes,1,10+ Miles,"Chicago, Illinois",56,No,2579
+27756,S,F,"$50,000.00 ",3,Bachelors,Skilled Manual,No,1,0-1 Miles,"Chicago, Illinois",40,No,1758
+23818,M,F,"$50,000.00 ",0,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,"Chicago, Illinois",33,Yes,4285
+19012,M,M,"$80,000.00 ",3,Bachelors,Management,Yes,1,1-2 Miles,"Chicago, Illinois",56,No,2928
+18329,S,M,"$30,000.00 ",0,Partial High School,Clerical,No,2,5-10 Miles,"Chicago, Illinois",27,No,3818
+29037,M,M,"$60,000.00 ",0,Graduate Degree,Professional,No,0,0-1 Miles,"Chicago, Illinois",39,No,4058
+26576,M,F,"$60,000.00 ",0,Partial College,Skilled Manual,Yes,2,5-10 Miles,"Chicago, Illinois",31,No,4268
+12192,S,F,"$60,000.00 ",2,Partial High School,Skilled Manual,No,2,1-2 Miles,"Chicago, Illinois",51,No,2820
+14887,M,F,"$30,000.00 ",1,High School,Clerical,Yes,1,5-10 Miles,"Chicago, Illinois",52,No,1992
+11734,M,M,"$60,000.00 ",1,Partial College,Skilled Manual,No,1,0-1 Miles,"Chicago, Illinois",47,No,3540
+17462,M,M,"$70,000.00 ",3,Graduate Degree,Management,Yes,2,5-10 Miles,"Chicago, Illinois",53,Yes,4625
+20659,M,M,"$70,000.00 ",3,Graduate Degree,Professional,Yes,0,0-1 Miles,"Chicago, Illinois",35,Yes,3461
+28004,M,F,"$60,000.00 ",3,Bachelors,Management,Yes,2,10+ Miles,"Chicago, Illinois",66,No,1447
+19741,S,F,"$80,000.00 ",4,Graduate Degree,Management,Yes,2,5-10 Miles,"Chicago, Illinois",65,No,2957
+17450,M,M,"$80,000.00 ",5,Partial College,Professional,Yes,3,5-10 Miles,"Chicago, Illinois",45,No,1001
+17337,S,M,"$40,000.00 ",0,High School,Skilled Manual,Yes,1,5-10 Miles,"Chicago, Illinois",31,No,1050
+18594,S,F,"$80,000.00 ",3,Bachelors,Skilled Manual,Yes,3,10+ Miles,"Chicago, Illinois",40,Yes,3757
+15982,M,M,"$110,000.00 ",5,Partial College,Professional,Yes,4,2-5 Miles,"Chicago, Illinois",46,No,2872
+28625,S,M,"$40,000.00 ",2,Partial College,Clerical,No,1,1-2 Miles,"Chicago, Illinois",47,Yes,3030
+11269,M,M,"$130,000.00 ",2,Graduate Degree,Management,Yes,2,0-1 Miles,"Chicago, Illinois",41,No,3937
+25148,M,M,"$60,000.00 ",2,High School,Professional,No,2,1-2 Miles,"Chicago, Illinois",48,Yes,4340
+13920,S,F,"$50,000.00 ",4,Bachelors,Skilled Manual,Yes,2,0-1 Miles,"Chicago, Illinois",42,No,1197
+23704,S,M,"$40,000.00 ",5,High School,Professional,Yes,4,10+ Miles,"Chicago, Illinois",60,Yes,3917
+28972,S,F,"$60,000.00 ",3,Graduate Degree,Management,Yes,2,10+ Miles,"Chicago, Illinois",66,No,3198
+22730,M,M,"$70,000.00 ",5,Bachelors,Management,Yes,2,10+ Miles,"Chicago, Illinois",63,No,3265
+29134,M,M,"$60,000.00 ",4,Bachelors,Skilled Manual,No,3,10+ Miles,"Chicago, Illinois",42,No,2238
+14332,S,F,"$30,000.00 ",0,High School,Skilled Manual,No,2,5-10 Miles,"Chicago, Illinois",26,No,2164
+19117,S,F,"$60,000.00 ",1,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",36,Yes,4621
+22864,M,M,"$90,000.00 ",2,Partial College,Professional,No,0,5-10 Miles,"Chicago, Illinois",49,Yes,4354
+11292,S,M,"$150,000.00 ",1,Partial College,Professional,No,3,0-1 Miles,"Chicago, Illinois",44,Yes,4761
+13466,M,M,"$80,000.00 ",5,Partial College,Professional,Yes,3,1-2 Miles,"Chicago, Illinois",46,No,1844
+23731,M,M,"$60,000.00 ",2,High School,Professional,Yes,2,2-5 Miles,"Chicago, Illinois",54,Yes,2305
+28672,S,M,"$70,000.00 ",4,Graduate Degree,Professional,Yes,0,2-5 Miles,"Chicago, Illinois",35,Yes,1295
+11809,M,M,"$60,000.00 ",2,Bachelors,Skilled Manual,Yes,0,0-1 Miles,"Chicago, Illinois",38,Yes,3417
+19664,S,M,"$100,000.00 ",3,Bachelors,Management,No,3,1-2 Miles,"Chicago, Illinois",38,No,3220
+12121,S,M,"$60,000.00 ",3,High School,Professional,Yes,2,10+ Miles,"Chicago, Illinois",53,Yes,4414
+13507,M,F,"$10,000.00 ",2,Partial College,Manual,Yes,0,1-2 Miles,"New York City, New York",50,No,2362
+19280,M,M,"$120,000.00 ",2,Partial College,Manual,Yes,1,0-1 Miles,"New York City, New York",40,Yes,3784
+22173,M,F,"$30,000.00 ",3,High School,Skilled Manual,No,2,1-2 Miles,"Los Angeles, California",54,Yes,1012
+12697,S,F,"$90,000.00 ",0,Bachelors,Professional,No,4,10+ Miles,"Los Angeles, California",36,No,4767
+11434,M,M,"$170,000.00 ",5,Partial College,Professional,Yes,0,0-1 Miles,"New York City, New York",55,No,4524
+25323,M,M,"$40,000.00 ",2,Partial College,Clerical,Yes,1,1-2 Miles,"New York City, New York",35,Yes,4761
+23542,S,M,"$60,000.00 ",1,Partial College,Skilled Manual,No,1,0-1 Miles,"Los Angeles, California",45,Yes,2267
+20870,S,F,"$10,000.00 ",2,High School,Manual,Yes,1,0-1 Miles,"New York City, New York",38,Yes,4232
+23316,S,M,"$30,000.00 ",3,Partial College,Clerical,No,2,1-2 Miles,"Los Angeles, California",59,Yes,2360
+12610,M,F,"$30,000.00 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",47,No,2211
+27183,S,M,"$40,000.00 ",2,Partial College,Clerical,Yes,1,1-2 Miles,"New York City, New York",35,Yes,4986
+25940,S,M,"$20,000.00 ",2,Partial High School,Clerical,Yes,2,5-10 Miles,"Los Angeles, California",55,Yes,2821
+25598,M,F,"$40,000.00 ",0,Graduate Degree,Clerical,Yes,0,0-1 Miles,"New York City, New York",36,Yes,2803
+21564,S,F,"$80,000.00 ",0,Bachelors,Professional,Yes,4,10+ Miles,"Los Angeles, California",35,No,3087
+19193,S,M,"$40,000.00 ",2,Partial College,Clerical,Yes,0,1-2 Miles,"New York City, New York",35,Yes,2548
+26412,M,F,"$80,000.00 ",5,High School,Management,No,3,5-10 Miles,"New York City, New York",56,No,4451
+27184,S,M,"$40,000.00 ",2,Partial College,Clerical,No,1,0-1 Miles,"New York City, New York",34,No,4682
+12590,S,M,"$30,000.00 ",1,Bachelors,Clerical,Yes,0,0-1 Miles,"New York City, New York",63,No,4039
+17841,S,M,"$30,000.00 ",0,Partial College,Clerical,No,1,0-1 Miles,"New York City, New York",29,Yes,1499
+18283,S,F,"$100,000.00 ",0,Bachelors,Professional,No,1,5-10 Miles,"Los Angeles, California",40,No,4652
+18299,M,M,"$70,000.00 ",5,Partial College,Skilled Manual,Yes,2,5-10 Miles,"Los Angeles, California",44,No,2955
+16466,S,F,"$20,000.00 ",0,Partial High School,Manual,No,2,0-1 Miles,"New York City, New York",32,Yes,4265
+19273,M,F,"$20,000.00 ",2,Partial College,Manual,Yes,0,0-1 Miles,"New York City, New York",63,No,4191
+22400,M,M,"$10,000.00 ",0,Partial College,Manual,No,1,0-1 Miles,"Los Angeles, California",26,Yes,1262
+20942,S,F,"$20,000.00 ",0,High School,Manual,No,1,5-10 Miles,"New York City, New York",31,No,1570
+18484,S,M,"$80,000.00 ",2,High School,Skilled Manual,No,2,1-2 Miles,"Los Angeles, California",50,Yes,3418
