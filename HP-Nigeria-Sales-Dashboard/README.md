@@ -48,7 +48,7 @@ across 4 regions, 6 products, and 6 salespersons.
 
 ## How to View
 
-Download `Imran's_HP_Sales_Dashboard.xlsx` and open it in Microsoft Excel (2016 or later recommended).
+Download `HP_Sales_Dashboard.xlsx` and open it in Microsoft Excel (2016 or later recommended).
 Ensure macros are enabled if prompted, and use the slicers on the dashboard sheet to interact with the visuals.
 
 ---
