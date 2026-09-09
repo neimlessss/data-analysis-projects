@@ -51,7 +51,7 @@ Financial-Analysis-Project/
 ├── Financial Sample.xlsx      # Source dataset
 │
 ├── 1_financial_waterfall.png  # Gross Sales → Net Profit waterfall
-├── 2_segment_performance.png  # Profit and margin by segment
+├── 2_segment_overview.png  # Profit and margin by segment
 ├── 3_discount_heatmap.png    # Discount band impact across segments
 ├── 4_monthly_trend.png        # Monthly sales, profit, and margin trend
 ├── 5_products_performance.png # Product profit, revenue/profit per unit, and margin
