@@ -48,7 +48,7 @@ Taken together, the sales collapse is the one finding that outweighs the rest â€
 
 | File | Description |
 |------|-------------|
-| [`HP_Nigeria_Sales_Data.xlsx`](HP_Nigeria_Sales.csv) | Original data set provided |
+| [`HP_Nigeria_Sales.csv`](HP_Nigeria_Sales.csv) | Original data set provided |
 | [`HP_Sales_Dashboard.xlsx`](HP_Sales_Dashboard.xlsx) | The Excel dashboard file |
 | [`hp_nigeria_dashboard_preview.png`](hp_nigeria_dashboard_preview.png) | Full dashboard screenshot |
 
