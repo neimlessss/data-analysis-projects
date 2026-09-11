@@ -24,8 +24,8 @@ DataCamp's "Case Study: Analyzing Customer Churn in Excel" is a short, beginner-
 
 | | Original Course Project | This Version |
 |---|---|---|
-| Analysis | Guided PivotTable exercises across the provided Customer and Aggregate tables | Independent investigation cross-checking the two tables, tracing a `#DIV/0!` error to a rollup flaw affecting non-Senior customers |
-| Conclusion | Dashboard-style sheet arrangement | A written Key Finding & Recommendation translating the pivots into a stated conclusion and action |
+| Analysis | Guided PivotTable exercises across the provided Customer and Aggregate tables | Independent investigation cross-checking the two tables, tracing a `#DIV/0!` error to a rollup flaw affecting non-Senior customers. |
+| Conclusion | Dashboard-style sheet arrangement | A written Key Finding & Recommendation translating the pivots into a stated conclusion and action. |
 
 ---
 
