@@ -8,7 +8,7 @@ A Power BI report that started as a 9-row course exercise — rebuilt into a 1,2
 
 ## Preview
 
-![Literate Nigeria Dashboard Overview](Overview.png)
+![Literate Nigeria Dashboard Overview](1_overview.png)
 
 ---
 
@@ -55,17 +55,17 @@ Together, these point to deliberate, correctly-functioning price tiering rather 
 
 | Page | Contents |
 |---|---|
-| [`Overview`](Overview.png) | Total revenue, enrollments, average daily enrollments, MoM revenue growth %, and the monthly revenue trend. |
-| [`Course Performance`](Course%20Performance.png) | Revenue and enrollment breakdown across all 19 courses. |
-| [`Category & Instructor Insights`](Category%20&%20Instructor%20Insights.png) | Revenue and enrollments by category, enrollments by category and level, and the full instructor overview table. |
+| [`Overview`](1_overview.png) | Total revenue, enrollments, average daily enrollments, MoM revenue growth %, and the monthly revenue trend. |
+| [`Course Performance`](2_course_performance.png) | Revenue and enrollment breakdown across all 19 courses. |
+| [`Category & Instructor Insights`](3_category_n_instructor_insights.png) | Revenue and enrollments by category, enrollments by category and level, and the full instructor overview table. |
 
 ---
 
 ## Charts
 
-![Overview](Overview.png)
-![Course Performance](Course%20Performance.png)
-![Category & Instructor Insights](Category%20&%20Instructor%20Insights.png)
+![Overview](1_overview.png)
+![Course Performance](2_course_performance.png)
+![Category & Instructor Insights](3_category_n_instructor_insights.png)
 
 ---
 
@@ -87,17 +87,17 @@ Together, these point to deliberate, correctly-functioning price tiering rather 
 
 | File | Description |
 |------|-------------|
-| [`Literate Nigeria Project Upgraded.pbix`](Literate%20Nigeria%20Project%20Upgraded.pbix) | Power BI dashboard file. |
-| [`LiterateNigeria_Dataset_v2.xlsx`](LiterateNigeria_Dataset_v2.xlsx) | Simulated source dataset (1,200+ rows). |
-| [`Overview.png`](Overview.png) | Overview page. |
-| [`Course Performance.png`](Course%20Performance.png) | Course Performance page. |
-| [`Category & Instructor Insights.png`](Category%20&%20Instructor%20Insights.png) | Category & Instructor Insights page. |
+| [`literate_nigeria_project_upgraded.pbix`](literate_nigeria_project_upgraded.pbix) | Power BI dashboard file. |
+| [`literate_nigeria_dataset_v2.xlsx`](literate_nigeria_dataset_v2.xlsx) | Simulated source dataset (1,200+ rows). |
+| [`1_overview.png`](1_overview.png) | Overview page. |
+| [`2_course_performance.png`](2_course_performance.png) | Course Performance page. |
+| [`3_category_n_instructor_insights.png`](3_category_n_instructor_insights.png) | Category & Instructor Insights page. |
 
 ---
 
 ## How to View
 
-Download `Literate Nigeria Project Upgraded.pbix` and open it in Power BI Desktop (free at [microsoft.com/powerbi](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)) — this is necessary to see the underlying DAX measures, not just the screenshots.
+Download `literate_nigeria_project_upgraded.pbix` and open it in Power BI Desktop (free at [microsoft.com/powerbi](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)) — this is necessary to see the underlying DAX measures, not just the screenshots.
 
 ---
 
