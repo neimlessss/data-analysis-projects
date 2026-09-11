@@ -55,9 +55,9 @@ Together, these point to deliberate, correctly-functioning price tiering rather 
 
 | Page | Contents |
 |---|---|
-| [`Overview`](Overview.png) | Total revenue, enrollments, average daily enrollments, MoM revenue growth %, and the monthly revenue trend |
-| [`Course Performance`](Course%20Performance.png) | Revenue and enrollment breakdown across all 19 courses |
-| [`Category & Instructor Insights`](Category%20&%20Instructor%20Insights.png) | Revenue and enrollments by category, enrollments by category and level, and the full instructor overview table |
+| [`Overview`](Overview.png) | Total revenue, enrollments, average daily enrollments, MoM revenue growth %, and the monthly revenue trend. |
+| [`Course Performance`](Course%20Performance.png) | Revenue and enrollment breakdown across all 19 courses. |
+| [`Category & Instructor Insights`](Category%20&%20Instructor%20Insights.png) | Revenue and enrollments by category, enrollments by category and level, and the full instructor overview table. |
 
 ---
 
@@ -87,11 +87,11 @@ Together, these point to deliberate, correctly-functioning price tiering rather 
 
 | File | Description |
 |------|-------------|
-| [`Literate Nigeria Project Upgraded.pbix`](Literate%20Nigeria%20Project%20Upgraded.pbix) | The Power BI dashboard file |
-| [`LiterateNigeria_Dataset_v2.xlsx`](LiterateNigeria_Dataset_v2.xlsx) | Simulated source dataset (1,200+ rows) |
-| [`Overview.png`](Overview.png) | Dashboard screenshot |
-| [`Course Performance.png`](Course%20Performance.png) | Dashboard screenshot |
-| [`Category & Instructor Insights.png`](Category%20&%20Instructor%20Insights.png) | Dashboard screenshot |
+| [`Literate Nigeria Project Upgraded.pbix`](Literate%20Nigeria%20Project%20Upgraded.pbix) | Power BI dashboard file. |
+| [`LiterateNigeria_Dataset_v2.xlsx`](LiterateNigeria_Dataset_v2.xlsx) | Simulated source dataset (1,200+ rows). |
+| [`Overview.png`](Overview.png) | Overview page. |
+| [`Course Performance.png`](Course%20Performance.png) | Course Performance page. |
+| [`Category & Instructor Insights.png`](Category%20&%20Instructor%20Insights.png) | Category & Instructor Insights page. |
 
 ---
 
