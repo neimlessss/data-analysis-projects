@@ -40,7 +40,7 @@ Enterprise is the finding that matters most here — a segment this large operat
 |------|-------------|
 | [`financial_analysis.ipynb`](financial_analysis.ipynb) | Main notebook — data loading, cleaning, SQL queries, charts, findings |
 | [`financials.sql`](financials.sql) | Full SQL analysis — exploratory queries with analytical commentary |
-| [`Financial Sample.xlsx`](Financial%20Sample.xlsx) | Source dataset |
+| [`financial_sample.xlsx`](financial_sample.xlsx) | Source dataset |
 | [`1_financial_waterfall.png`](1_financial_waterfall.png) | Gross Sales → Net Profit waterfall |
 | [`2_segment_overview.png`](2_segment_overview.png) | Profit and margin by segment |
 | [`3_discount_heatmap.png`](3_discount_heatmap.png) | Discount band impact across segments |
