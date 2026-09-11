@@ -2,7 +2,7 @@
 
 A SQL and Python analysis of financial performance across five segments, five countries, and six products — with every headline figure independently re-derived from the raw data before publishing, catching a labeling slip and a rounding error along the way.
 
-**Tools:** Python, SQL (PostgreSQL) &nbsp;·&nbsp; **Type:** Personal Project &nbsp;·&nbsp; **Dataset:** Microsoft's "Financial Sample" demo dataset
+**Tool(s):** Python, SQL (PostgreSQL) &nbsp;·&nbsp; **Type:** Personal Project &nbsp;·&nbsp; **Dataset:** Microsoft's "Financial Sample" demo dataset
 
 ---
 
