@@ -22,10 +22,10 @@ A 3-page interactive Power BI dashboard tracking course enrollments and revenue 
 
 | | Original Course Project | This Version |
 |---|---|---|
-| Data | 9 rows, single table | 1,200+ rows across 3 relational tables |
-| Model | None | Star schema (Enrollments, Courses, Instructors) |
-| Analysis | Basic totals | Category, level, and instructor-level breakdowns; 4 custom DAX measures |
-| Output | Single page | 3-page interactive report |
+| Data | 9 rows, single table | 1,200+ rows across 3 relational tables. |
+| Model | None | Star schema (Enrollments, Courses, Instructors). |
+| Analysis | Basic totals | Category, level, and instructor-level breakdowns; 4 custom DAX measures. |
+| Output | Single page | 3-page interactive report. |
 
 ---
 
@@ -33,9 +33,9 @@ A 3-page interactive Power BI dashboard tracking course enrollments and revenue 
 
 The dataset is structured as a star schema:
 
-- **Enrollments** (fact table) — 1,200+ rows covering January to June 2025
-- **Courses** (dimension table) — 19 courses across 5 categories with pricing and level details
-- **Instructors** (dimension table) — 19 instructors linked to their respective courses via Course ID
+- **Enrollments** (fact table) — 1,200+ rows covering January to June 2025.
+- **Courses** (dimension table) — 19 courses across 5 categories with pricing and level details.
+- **Instructors** (dimension table) — 19 instructors linked to their respective courses via Course ID.
 
 ---
 
