@@ -66,7 +66,7 @@ Investigation into a row-count mismatch between the two revealed the rollup sile
 | File | Description |
 |------|-------------|
 | [`Customer Churn Case Study.xlsx`](Customer%20Churn%20Case%20Study.xlsx) | Full workbook. |
-| [`Overview.png`](Overview.png) | Overview tab screenshot. |
+| [`Overview.png`](Overview.png) | Overview sheet. |
 
 ---
 
