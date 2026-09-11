@@ -1,4 +1,4 @@
-# NRM — Net Revenue Management Case Study (HealthMax Shampoo)
+# Net Revenue Management Case Study (HealthMax Shampoo)
 
 A DataCamp Net Revenue Management case study rebuilt around a single question — is HealthMax's stagnant growth a pricing problem or a portfolio problem — and extended with a fully interactive, macro-free toggle chart that most guided Excel courses never ask you to build.
 
