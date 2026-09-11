@@ -8,7 +8,7 @@ An interactive Excel dashboard which traced a 79% sales collapse over six months
 
 ## Preview
 
-![HP Nigeria Dashboard](hp_nigeria_dashboard_preview.png)
+![HP Nigeria Dashboard](1_overview.png)
 
 ---
 
@@ -50,7 +50,7 @@ Taken together, the sales collapse is the one finding that outweighs the rest â€
 |------|-------------|
 | [`hp_nigeria_sales.csv`](hp_nigeria_sales.csv) | Original data set provided. |
 | [`hp_nigeria_sales_dashboard.xlsx`](hp_nigeria_sales_dashboard.xlsx) | Full workbook containing dashboard and analysis sheets. |
-| [`hp_nigeria_dashboard_preview.png`](hp_nigeria_dashboard_preview.png) | Dashboard preview. |
+| [`1_overview.png`](1_overview.png) | Dashboard overview. |
 
 ---
 
