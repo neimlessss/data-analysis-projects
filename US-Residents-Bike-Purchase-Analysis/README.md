@@ -87,8 +87,13 @@ Power BI's default implicit aggregations (`SUM`, `AVERAGE`) would silently doubl
 | File | Description |
 |------|-------------|
 | [`us_residents_data.sql`](us_residents_data.sql) | The full exploratory investigation, structured to read as a genuine analytical process: data integrity → summary statistics → the outcome variable → geography → demographics → occupation → education → behavioral drivers → life stage. |
-| [`US_Residents_Data_Dashboard.pbix`](US_Residents_Data_Dashboard.pbix) | The 5-page interactive Power BI report. |
-| [`US Residents Data.csv`](US%20Residents%20Data.csv) | The source dataset. |
+| [`US_Residents_Data_Dashboard.pbix`](US_Residents_Data_Dashboard.pbix) | 5-page interactive Power BI report. |
+| [`US Residents Data.csv`](US%20Residents%20Data.csv) | Source dataset. |
+| [`1_overview.png`](1_overview.png) | Overview Page. |
+| [`2_bike_purchase_overview.png`](2_bike_purchase_overview.png) | Bike Purchase Overview Page. |
+| [`3_demographics.png`](3_demographics.png) | Demographics Page. |
+| [`4_bike_purchase_drivers.png`](4_bike_purchase_drivers.png) | Bike Purchase Drivers Page. |
+| [`5_KIR.png`](5_KIR.png) | Key Insights & Recommendations Page. |
 
 ---
 
