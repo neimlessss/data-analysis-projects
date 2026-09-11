@@ -72,7 +72,7 @@ Investigation into a row-count mismatch between the two revealed the rollup sile
 
 ## How to View
 
-Download `customer_churn_case_study.xlsx` and open it in Microsoft Excel (2016 or later recommended, for full PivotTable and grouping support). Start on the **Overview** tab; use the **Intl Plan** filter on the State breakdown to toggle between subscriber groups.
+Download `customer_churn_case_study.xlsx` and open it in Microsoft Excel (2016 or later recommended, for full PivotTable and grouping support). Start on the **Overview** sheet; use the **Intl Plan** filter on the State breakdown to toggle between subscriber groups.
 
 ---
 
