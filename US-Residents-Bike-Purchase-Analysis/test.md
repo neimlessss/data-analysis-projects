@@ -36,6 +36,7 @@ Given a raw dataset of resident demographics, income, and bike purchase behavior
 Commute distance and car ownership are the two findings worth acting on first — they're both the strongest predictors and the most actionable, since they point toward specific targeting (longer-commute neighborhoods, car-adjacent retail partnerships) rather than broad demographic segmentation. City, income, and gender all turned out to be weak or misleading proxies on their own, and shouldn't drive targeting decisions in their place. The dashboard's Key Insights & Recommendations page pairs each of the six findings above with a specific recommended action.
 
 Two additional variables — **Home Ownership** and **Number of Children** — were tested and are documented in the SQL script, but did not show a clean, reliable pattern and were not carried forward as dashboard findings.
+
 ---
 
 ## Data Integrity
