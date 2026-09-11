@@ -2,7 +2,7 @@
 
 A DataCamp Net Revenue Management case study rebuilt around a single question — is HealthMax's stagnant growth a pricing problem or a portfolio problem — and extended with a fully interactive, macro-free toggle chart that most guided Excel courses never ask you to build.
 
-**Tools:** Microsoft Excel &nbsp;·&nbsp; **Type:** Course Project — Extended (see below) &nbsp;·&nbsp; **Dataset:** Simulated (DataCamp course dataset)
+**Tool(s):** Microsoft Excel &nbsp;·&nbsp; **Type:** Course Project — Extended (see below) &nbsp;·&nbsp; **Dataset:** Simulated (DataCamp course dataset)
 
 ---
 
@@ -39,7 +39,7 @@ DataCamp's "Case Study: Net Revenue Management in Excel" is built around calcula
 4. **Organic is the fastest-growing subcategory in the market by far** (+276% in units, 2018 vs. 2022) — a segment HealthMax doesn't yet compete in.
 5. **The Waterfall shows exactly what the proposed launches are worth.** Natural growth alone would add just 1.0% to 2024 net sales; with a proposed Organic line and 50ml pack size added, projected growth rises to 3.9% — the two launches account for roughly 75% of all projected 2024 growth.
 
-Together, these five numbers are the backbone of the workbook's Executive Summary tab, which states the recommendation directly: launch the Organic line and 50ml pack size to reclaim share from rising competitors and offset flagship-brand decline. The Waterfall figure is the one that matters most here — it's the difference between treating the recommendation as a hunch and being able to quantify exactly what it's worth.
+Together, these five numbers are the backbone of the workbook's Executive Summary sheet, which states the recommendation directly: launch the Organic line and 50ml pack size to reclaim share from rising competitors and offset flagship-brand decline. The Waterfall figure is the one that matters most here — it's the difference between treating the recommendation as a hunch and being able to quantify exactly what it's worth.
 
 ---
 
