@@ -72,14 +72,14 @@ Together, these point to deliberate, correctly-functioning price tiering rather 
 ## Features
 
 - 3 report pages — `Overview`, `Course Performance`, and `Category & Instructor Insights`.
-- Star schema data model across 3 related tables (Enrollments, Courses, Instructors) connected via Course ID as the primary relationship key
+- Star schema data model across 3 related tables (Enrollments, Courses, Instructors) connected via Course ID as the primary relationship key.
 - 4 custom DAX measures:
   - Total Revenue
   - Total Enrollments
   - Average Daily Enrollments
   - Month-over-Month Revenue Growth % — using CALCULATE, DATEADD, and DIVIDE
-- Cross-filtering slicers for dynamic analysis by date range and course category
-- Consistent Frontier theme applied across all 3 pages
+- Cross-filtering slicers for dynamic analysis by date range and course category.
+- Consistent Frontier theme applied across all 3 pages.
 
 ---
 
