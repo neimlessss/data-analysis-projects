@@ -8,7 +8,7 @@ An Excel churn analysis that traced a `#DIV/0!` error back to a silently-blanked
 
 ## Preview
 
-![Customer Churn Dashboard](Overview.png)
+![Customer Churn Dashboard](1_overview.png)
 
 ---
 
@@ -65,14 +65,14 @@ Investigation into a row-count mismatch between the two revealed the rollup sile
 
 | File | Description |
 |------|-------------|
-| [`Customer Churn Case Study.xlsx`](Customer%20Churn%20Case%20Study.xlsx) | Full workbook. |
-| [`Overview.png`](Overview.png) | Overview sheet. |
+| [`customer_churn_case_study.xlsx`](customer_churn_case_study.xlsx) | Full workbook. |
+| [`1_overview.png`](1_overview.png) | Overview sheet. |
 
 ---
 
 ## How to View
 
-Download `Customer Churn Case Study.xlsx` and open it in Microsoft Excel (2016 or later recommended, for full PivotTable and grouping support). Start on the **Overview** tab; use the **Intl Plan** filter on the State breakdown to toggle between subscriber groups.
+Download `customer_churn_case_study.xlsx` and open it in Microsoft Excel (2016 or later recommended, for full PivotTable and grouping support). Start on the **Overview** tab; use the **Intl Plan** filter on the State breakdown to toggle between subscriber groups.
 
 ---
 
