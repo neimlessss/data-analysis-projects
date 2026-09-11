@@ -83,7 +83,7 @@ Together, these five numbers are the backbone of the workbook's Executive Summar
 | [`3_market_share_full.png`](3_market_share_full.png) | Market Share sheet — toggle in full view. |
 | [`4_profitability_matrix.png`](4_profitability_matrix.png) | Profitability Matrix sheet. |
 | [`5_promotion_graph.png`](5_promotion_graph.png) | Promotion Graph sheet. |
-| [`6_forecast_2024.png`](6_forecast_2024.png) | Forecast sheet. |
+| [`6_forecast.png`](6_forecast.png) | Forecast sheet. |
 | [`7_waterfall.png`](7_waterfall.png) | Waterfall sheet. |
 
 ---
