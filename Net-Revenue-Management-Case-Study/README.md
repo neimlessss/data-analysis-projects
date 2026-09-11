@@ -68,7 +68,7 @@ Together, these five numbers are the backbone of the workbook's Executive Summar
 - A macro-free, formula-driven toggle on the Market Share chart — a checkbox switches between a full 25-brand view and a focused 4-competitor-plus-aggregate view, with a dynamic caption that updates to describe whichever state is active.
 - A Region slicer cross-filtering the Market Share PivotTable, which flows through automatically to the toggle chart via its underlying formulas.
 - 3 PivotTable-driven charts across the workbook (Market Share, Profitability Matrix, Promotion Graph).
-- A native Excel Waterfall chart bridging prospected net sales of both 2023 and 2024, linked live into the Executive Summary sheet.
+- A native Excel Waterfall chart bridging projected 2023 net sales to projected 2024 net sales, linked live into the Executive Summary sheet.
 - A dedicated Executive Summary sheet with headline KPI callouts and a stated recommendation.
 
 ---
