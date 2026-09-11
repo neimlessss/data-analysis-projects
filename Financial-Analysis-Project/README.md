@@ -34,6 +34,17 @@ Enterprise is the finding that matters most here — a segment this large operat
 
 ---
 
+## Charts
+
+![Financial Waterfall](1_financial_waterfall.png)
+![Segment Overview](2_segment_overview.png)
+![Discount Heatmap](3_discount_heatmap.png)
+![Monthly Trend](4_monthly_trend.png)
+![Product Performance](5_products_performance.png)
+![Country Performance](6_country_performance.png)
+
+---
+
 ## What's Inside
 
 | File | Description |
@@ -58,17 +69,6 @@ Enterprise is the finding that matters most here — a segment this large operat
 4. **Open `financial_analysis.ipynb`** in Jupyter and run all cells top to bottom. The notebook will load the Excel data, push it to PostgreSQL, query it, and render all six charts.
 
 > The SQL file (`financials.sql`) is written for PostgreSQL and can be run independently in pgAdmin after the notebook has loaded the data.
-
----
-
-## Charts
-
-![Financial Waterfall](1_financial_waterfall.png)
-![Segment Overview](2_segment_overview.png)
-![Discount Heatmap](3_discount_heatmap.png)
-![Monthly Trend](4_monthly_trend.png)
-![Product Performance](5_products_performance.png)
-![Country Performance](6_country_performance.png)
 
 ---
 
