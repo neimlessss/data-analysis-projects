@@ -11,10 +11,11 @@ across the full data analysis workflow — from cleaning and modelling to visual
 | # | Project | Tools Used | Type |
 |---|---------|------|------|
 | 1 | [HP Nigeria Sales Performance Dashboard](HP-Nigeria-Sales-Dashboard/) | Microsoft Excel | Class Project |
-| 2 | [Literate Nigeria EdTech Performance Dashboard](Literate-Nigeria-EdTech-Dashboard/) | Power BI | Personal Project |
+| 2 | [Literate Nigeria EdTech Performance Dashboard](Literate-Nigeria-EdTech-Dashboard/) | Power BI | Course Project (Expanded) |
 | 3 | [Financial Analysis Project](Financial-Analysis-Project/) | PostgreSQL & Python | Personal Project|
 | 4 | [US Residents Bike Purchase Analysis](US-Residents-Bike-Purchase-Analysis/) | MySQL & Power BI | Personal Project |
-| 5 | [Customer Churn Case Study In Excel](Customer-Churn-Case-Study-In-Excel/) | Microsoft Excel | DataCamp Project |
+| 5 | [Customer Churn Case Study In Excel](Customer-Churn-Case-Study-In-Excel/) | Microsoft Excel | Course Project (Expanded) |
+| 6 | [Net Revenue Management Case Study](Net-Revenue-Management-Case-Study/) | Microsoft Excel | Course Project (Expanded) |
 
 ---
 
