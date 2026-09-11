@@ -56,7 +56,7 @@ Taken together, the sales collapse is the one finding that outweighs the rest â€
 
 ## How to View
 
-Download `HP_Sales_Dashboard.xlsx` and open it in Microsoft Excel (2016 or later recommended). Use the slicers on the dashboard sheet to interact with the visuals.
+Download `hp_nigeria_sales_dashboard.xlsx` and open it in Microsoft Excel (2016 or later recommended). Use the slicers on the dashboard sheet to interact with the visuals.
 
 ---
 
