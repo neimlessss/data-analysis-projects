@@ -2,7 +2,7 @@
 
 An Excel churn analysis that traced a `#DIV/0!` error back to a silently-blanked source column — and used the fix to uncover which of 6,687 telecom customers are actually at risk, and why.
 
-**Tool(s):** Microsoft Excel &nbsp;·&nbsp; **Type:** DataCamp Course Project — Extended (see below) &nbsp;·&nbsp; **Dataset:** Simulated
+**Tool(s):** Microsoft Excel &nbsp;·&nbsp; **Type:** DataCamp Course Project — Extended (see below) &nbsp;·&nbsp; **Dataset:** Simulated (DataCamp course dataset)
 
 ---
 
