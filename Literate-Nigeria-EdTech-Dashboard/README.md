@@ -1,6 +1,6 @@
 # Literate Nigeria — EdTech Performance Dashboard
 
-A Power BI report that started as a 9-row course exercise — rebuilt into a 1,200+ row relational model spanning 19 courses, and used to trace a consistent volume-vs-value split running from category all the way down to individual course and instructor.
+What started as a 9-row course exercise, rebuilt into a 1,200+ row relational model spanning 19 courses — and used to trace a consistent volume-vs-value split running from category all the way down to individual course and instructor.
 
 **Tool(s):** Power BI &nbsp;·&nbsp; **Type:** Course Project — Extended (see below) &nbsp;·&nbsp; **Dataset:** Simulated, expanded from original course dataset
 
@@ -101,4 +101,4 @@ Download `literate_nigeria_project_upgraded.pbix` and open it in Power BI Deskto
 
 ---
 
-*Dataset is simulated and modelled after Literate Nigeria's actual course offerings, substantially expanded from the original 9-row course exercise for portfolio purposes. Literate Nigeria is a real organisation based in Lagos, Nigeria — [literatenigeria.com](https://literatenigeria.com).*
+*Dataset is simulated and modelled after Literate Nigeria's actual course offerings, substantially expanded from the original "Data Analytics" 9-row course exercise for portfolio purposes. Literate Nigeria is a real organisation based in Lagos, Nigeria — [literatenigeria.com](https://literatenigeria.com).*
