@@ -43,7 +43,7 @@ Together, these five numbers are the backbone of the workbook's Executive Summar
 
 ---
 
-## Data Integrity / Methodology
+## Methodology
 
 **The Profitability Matrix's apparent duplicate table is intentional, not a mistake.** Excel doesn't allow scatter (XY) charts to be built directly from a PivotTable's data structure — a pivot cache has no concept of independent X/Y coordinates, so scatter, bubble, and stock charts are excluded from what a PivotChart can plot. The second, identical-looking table on that tab is a static copy of the same data, existing solely to give the scatter chart a plain cell range it can read from. This is documented directly in the workbook via a cell comment on the second table's header.
 
