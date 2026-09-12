@@ -1,6 +1,6 @@
 # Customer Churn Case Study In Excel
 
-An Excel churn analysis that traced a `#DIV/0!` error back to a silently-blanked source column — and used the fix to uncover which of 6,687 telecom customers are actually at risk, and why.
+A #DIV/0! error traced back to a silently-blanked source column — and used to uncover which of 6,687 telecom customers are actually at risk, and why.
 
 **Tool(s):** Microsoft Excel &nbsp;·&nbsp; **Type:** Course Project — Extended (see below) &nbsp;·&nbsp; **Dataset:** Simulated (DataCamp course dataset)
 
