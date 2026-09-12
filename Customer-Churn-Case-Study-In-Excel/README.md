@@ -76,4 +76,4 @@ Download `customer_churn_case_study.xlsx` and open it in Microsoft Excel (2016 o
 
 ---
 
-*Dataset is purely for analytical and educational purposes.*
+*This project is based on DataCamp's "Case Study: Analyzing Customer Churn in Excel." Databel and all customer data are fictional and provided as part of the course. The data-integrity investigation and the written Key Finding & Recommendation are original extensions built substantially beyond the course's guided exercises.*
