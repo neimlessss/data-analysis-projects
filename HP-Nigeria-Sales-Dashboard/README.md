@@ -1,6 +1,6 @@
 # HP Nigeria — Sales Performance Dashboard
 
-An interactive Excel dashboard which traced a 79% sales collapse over six months back to its actual source — and found that HP Nigeria's best-performing region isn't winning on volume, but on selling a fundamentally different mix of products.
+A 79% sales collapse over six months, traced back to its actual source — and a discovery that HP Nigeria's best-performing region isn't winning on volume, but on selling a fundamentally different mix of products.
 
 **Tool(s):** Microsoft Excel &nbsp;·&nbsp; **Type:** Class Project &nbsp;·&nbsp; **Dataset:** Simulated
 
