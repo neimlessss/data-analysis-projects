@@ -1,6 +1,6 @@
 # Financial Analysis — SQL & Python
 
-A SQL and Python analysis of financial performance across five segments, five countries, and six products — with every headline figure independently re-derived from the raw data before publishing, catching a labeling slip and a rounding error along the way.
+Five segments, five countries, six products — every headline figure checked back against the raw data, which is how a mislabeled "missing value" turned out to be an entire hidden discount category.
 
 **Tool(s):** Python, SQL (PostgreSQL) &nbsp;·&nbsp; **Type:** Personal Project &nbsp;·&nbsp; **Dataset:** Microsoft's "Financial Sample" demo dataset
 
@@ -12,25 +12,21 @@ This project analyzes a dataset of 700 sales transactions spanning September 201
 
 ---
 
-## Tools & Libraries
-
-- **Python** — Pandas, NumPy, Matplotlib, Seaborn, SQLAlchemy, python-dotenv
-- **SQL** — PostgreSQL (via pgAdmin)
-- **Jupyter Notebook** — for analysis, visualisation, and documentation
-- **Excel** — source dataset
-
----
-
 ## Key Findings
 
 1. **Overall performance is healthy, but uneven.** The business generated $127.93M in gross sales across the period; after discounts and COGS, that comes to $16.89M in net profit — a blended margin of 14.23%. That margin varies significantly across segments, products, and markets.
-2. **Enterprise is the one loss-making segment.** It recorded a profit margin of -3.13%, and the higher the discount applied to Enterprise deals, the greater the loss. Channel Partners sits at the opposite extreme — the highest margin of any segment at 73.13%, and notably resistant to discount pressure, losing only 3.54% in margin from no discount to high discount.
-3. **Discounts hurt margin everywhere, but catastrophically only in Enterprise.** Across all segments, higher discounts correlate with lower margins — but the relationship is structurally sound for most segments and specifically broken for Enterprise, where it consistently produces negative returns regardless of volume.
-4. **Amarilla leads on margin, trails on volume.** It has the highest profit margin of any product (15.86%) and the highest profit per unit, but the second-lowest unit volume in the portfolio — a gap worth investigating as a possible distribution or demand issue rather than a pricing one.
-5. **USA revenue doesn't convert to profit the way it should.** The USA generated the highest net sales of any country, but only the second-lowest total profit — its second-highest COGS per unit suggests a cost base that isn't matched by its pricing. Germany is the inverse: fewest units sold, highest profit margin of any country, pointing to stronger pricing discipline or a more favorable product mix.
-6. **2014 grew, but margin slipped slightly.** Because the dataset only covers a partial 2013, a direct revenue comparison isn't reliable — but margin is: despite higher revenue in 2014, profit margin declined by 0.58 percentage points versus 2013, suggesting scale came at a small cost to profitability. A recurring profit dip every November, in both years, stands out as a pattern worth investigating on its own.
+2. **Enterprise is the one loss-making segment.** It recorded a profit margin of -3.13%, and the higher the discount applied to Enterprise deals, the greater the loss. Channel Partners sits at the opposite extreme — the highest margin of any segment at 73.13%, and notably resistant to discount pressure, losing only 3.54 percentage points in margin from no discount to high discount.
+3. **Discounting erodes margin in every segment — but only Enterprise's collapse turns it into a loss.** Margin falls from no-discount to high-discount deals across all five segments, but by wildly different amounts: Channel Partners moves just 3.54%, Midmarket 9.57, Government 10.08, Small Business 11.92 — and Enterprise moves 13.53%, from a profitable 4.00% at no discount down to -9.53% at high discount, the only segment to cross into loss territory.
+4. **Amarilla leads on margin, trails on volume — but still wins on profit.** It has the highest profit margin of any product (15.86%) and the highest profit per unit ($18.12), yet the second-lowest unit volume in the portfolio. Velo sits at the other extreme — the lowest margin of the six products at 12.64%, just 3.22 percentage points below Amarilla — but moved more units and still returned less profit, a gap worth investigating as a possible distribution or demand issue rather than a pricing one.
+5. **USA revenue doesn't convert to profit the way it should.** The USA generated the highest net sales of any country ($25.03M), but only the second-lowest total profit — its COGS per unit ($94.72) is the second-highest of any country, a cost base that isn't matched by its pricing. Germany is the inverse: fewest units sold, highest profit margin of any country (15.66% vs. USA's 11.97%, a 3.69-point gap), despite every country recording the exact same number of transactions (140).
+6. **2014 grew, but margin slipped slightly.** Because the dataset only covers a partial 2013 (from September), a direct revenue comparison isn't reliable — but margin is: despite far higher revenue in 2014, profit margin declined from 14.68% to 14.10%, a 0.58-point drop. A recurring dip shows up every November in both years (10.53% in 2013, 11.23% in 2014, each a sharp fall from the preceding October), a pattern worth investigating on its own.
 
 Enterprise is the finding that matters most here — a segment this large operating at a structural loss, specifically because of how it responds to discounting, is worth resolving before optimizing already-healthy segments like Channel Partners. The recurring November dip is the second thread worth pulling, since it shows up independently of any single segment or product.
+
+---
+
+## Data Integrity
+An initial null check flagged 53 missing values in the Discount Band field. On inspection, these weren't missing data — Excel's source file used the literal string "*None*" to mean "*no discount applied*", and pandas misread that as a null. The values were restored using `fillna("None")`, leaving it with four real categories: None, Low, Medium, High, and zero actual nulls in the dataset.
 
 ---
 
@@ -42,6 +38,15 @@ Enterprise is the finding that matters most here — a segment this large operat
 ![Monthly Trend](4_monthly_trend.png)
 ![Product Performance](5_products_performance.png)
 ![Country Performance](6_country_performance.png)
+
+---
+
+## Tools & Libraries
+
+- **Python** — Pandas, NumPy, Matplotlib, Seaborn, SQLAlchemy, python-dotenv
+- **SQL** — PostgreSQL (via pgAdmin)
+- **Jupyter Notebook** — for analysis, visualisation, and documentation
+- **Excel** — source dataset
 
 ---
 
