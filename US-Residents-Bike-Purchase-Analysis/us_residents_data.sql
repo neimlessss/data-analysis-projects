@@ -14,6 +14,9 @@
 -- ============================================================
 -- PART 1: GETTING ORIENTED.
 -- ============================================================
+-- Selecting the DB to be used.
+USE us_residents_data;
+
 -- First confirming if the data loaded completely.
 SELECT COUNT(*) AS total_rows
 FROM raw_residents_data;
@@ -181,7 +184,10 @@ SELECT
 		'$', FORMAT(AVG(Income_Number), 2)
 	) AS avg_income,
     COUNT(DISTINCT ID) AS resident_count
-FROM income_cleaned
+FROM (
+    SELECT DISTINCT ID, Income_Number, City
+    FROM income_cleaned
+) AS one_row_per_resident
 GROUP BY City
 ORDER BY AVG(Income_Number) DESC;
 -- Los Angeles:    $63,593.75 (192 residents in the data)
@@ -189,7 +195,7 @@ ORDER BY AVG(Income_Number) DESC;
 -- New York City:  $40,900.00 (300 residents in the data)
 -- Los Angeles edges out Chicago on income despite having the fewest residents recorded of the three.
 
--- Does purchase behavior follows the same pattern?
+-- Does purchase behavior follow the same pattern?
 SELECT
     City,
     COUNT(DISTINCT ID) AS resident_count,
@@ -284,7 +290,10 @@ SELECT
 		'$', FORMAT(AVG(Income_Number), 2)
     ) AS avg_income,
     COUNT(DISTINCT ID) AS resident_count
-FROM income_cleaned
+FROM (
+    SELECT DISTINCT ID, Income_Number, Occupation
+    FROM income_cleaned
+) AS one_row_per_resident
 GROUP BY Occupation
 ORDER BY AVG(Income_Number) DESC;
 -- Management:   $86,647.40 (highest income, by a clear margin)
@@ -325,14 +334,17 @@ SELECT
     '$', FORMAT(AVG(Income_Number), 2)
     ) AS avg_income,
     COUNT(DISTINCT ID) AS resident_count
-FROM income_cleaned
+FROM (
+    SELECT DISTINCT ID, Income_Number, Education
+    FROM income_cleaned
+) AS one_row_per_resident
 GROUP BY Education
 ORDER BY AVG(Income_Number) DESC;
--- Graduate Degree:      $65,942.86 (highest)
--- Bachelors:            $63,054.66
--- Partial College:      $54,604.32
--- High School:          $47,173.91
--- Partial High School:  $34,102.56 (lowest)
+-- Graduate Degree:      $66,091.95 (highest)
+-- Bachelors:            $63,006.54
+-- Partial College:      $54,716.98
+-- High School:          $47,262.57
+-- Partial High School:  $34,473.68 (lowest)
 -- Unlike Occupation, income and purchase rate move together here
 -- Both rise with education level, no reversal.
 -- Worth reporting alongside Occupation specifically because they contrast.
