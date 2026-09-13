@@ -12,28 +12,28 @@ An end-to-end exploratory analysis and interactive dashboard investigating what 
 
 ---
 
-## A Note on Scope
-
-This dataset contains 1,000 residents across three cities (Chicago, Los Angeles, New York City). Every finding in this project describes a pattern within the data collected — not a claim about the actual populations of these cities. Where a finding could be read as a statement about "the city" itself, it's phrased instead as a statement about the residents recorded in this dataset.
-
----
-
 ## Overview
 
 Given a raw dataset of resident demographics, income, and bike purchase behavior, the goal was to identify what genuinely drives a purchase decision — and, just as importantly, to identify which intuitive assumptions (city size, income level, gender) *don't* hold up once tested. The project moves from SQL-based exploratory investigation through to a 5-page interactive Power BI dashboard, with every insight on the dashboard traceable back to a specific query.
 
 ---
 
+## A Note on Scope
+
+This dataset contains 1,000 residents across three cities (Chicago, Los Angeles, New York City). Every finding in this project describes a pattern within the data collected — not a claim about the actual populations of these cities. Where a finding could be read as a statement about "the city" itself, it's phrased instead as a statement about the residents recorded in this dataset.
+
+---
+
 ## Key Findings
 
-1. **Commute distance and cars owned are the strongest predictors of bike purchase** — far stronger than city, income, or occupation. Purchase rate rises from 54.6% at 0–1 mile commutes to a peak of 58.6% at 2–5 miles, then falls to 29.7% at 10+ miles. Car ownership shows a similar shape, falling from 61.1% (0 cars) to roughly 36% at 2+ cars.
-2. **The number of residents recorded for a city doesn't predict its performance.** Los Angeles has the fewest residents in the dataset (192) but the highest average income and purchase rate (58.9%). Chicago has the most (508) but converts at only 43.3%.
+1. **Commute distance and cars owned are the strongest predictors of bike purchase** — far stronger than city, income, or occupation. Purchase rate rises from 54.6% at 0–1 mile commutes to a peak of 58.6% at 2–5 miles, then falls to 29.7% at 10+ miles. Car ownership shows a similar shape, falling from 61.1% (0 cars) to 36.3% at 2 cars.
+2. **The number of residents recorded for a city doesn't predict its performance.** Los Angeles has the fewest residents in the dataset (192) but the highest average income ($63,593.75) and purchase rate (58.9%). Chicago has the most (508) but converts at only 43.3%.
 3. **Marital status is a real, secondary predictor** — single residents buy at 54.1% vs. 42.9% for married residents. Gender was also tested and showed no meaningful difference (47.4% vs. 48.9%), and was ruled out as a segmentation variable.
-4. **Management earns the most on average, but buys the least.** Professional — the second-highest earning group — has the highest bike purchase rate of any occupation. Income level does not predict purchase behavior on its own.
-5. **Bike purchase rate rises with education level, and so does income** — the one variable where the two move together rather than reversing.
+4. **Management earns the most on average, but buys the least.** Management has the highest average income of any occupation ($86,647.40) but the lowest purchase rate (42.2%). Professional, the second-highest earner ($75,072.46), has the highest purchase rate of any occupation (54.3%) — income level does not predict purchase behavior on its own.
+5. **Bike purchase rate rises with education level, and so does income** — the one variable where the two move together rather than reversing. Purchase rate climbs from 26.3% (Partial High School) to 55.2% (Bachelors), and average income follows the same order, from $34,473.68 up to $66,091.95 (Graduate Degree) — unlike Occupation, there's no reversal here.
 6. **Purchase rate declines steadily with age** — from 55.7% (Adult) to 45.9% (Middle Age) to 32.2% (Senior/Elderly), a clean, monotonic pattern.
 
-Commute distance and car ownership are the two findings worth acting on first — they're both the strongest predictors and the most actionable, since they point toward specific targeting (longer-commute neighborhoods, car-adjacent retail partnerships) rather than broad demographic segmentation. City, income, and gender all turned out to be weak or misleading proxies on their own, and shouldn't drive targeting decisions in their place. The dashboard's Key Insights & Recommendations page pairs each of the six findings above with a specific recommended action.
+Commute distance and car ownership are the two findings worth acting on first — the clearest, most consistent signals in the dataset. City, income, and gender all turned out to be weak or misleading proxies on their own, while Marital Status and Education held up as real, secondary patterns. Occupation is the one genuine reversal worth flagging on its own: the highest-earning group is also the least likely to buy. The dashboard's Key Insights & Recommendations page pairs each of the six findings above with a specific recommended action.
 
 Two additional variables — **Home Ownership** and **Number of Children** — were tested and are documented in the SQL script, but did not show a clean, reliable pattern and were not carried forward as dashboard findings.
 
