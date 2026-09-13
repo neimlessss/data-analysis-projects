@@ -1,6 +1,6 @@
 # Net Revenue Management Case Study (HealthMax Shampoo)
 
-A DataCamp Net Revenue Management case study rebuilt around a single question — is HealthMax's stagnant growth a pricing problem or a portfolio problem — and extended with a fully interactive, macro-free toggle chart that most guided Excel courses never ask you to build.
+HealthMax's shampoo portfolio grew just 2.5% in five years while a rival nearly doubled its market share and its own flagship brand lost ground every single year — the analysis behind this workbook shows exactly how entering the one subcategory that's grown 276% could nearly quadruple that stalled growth rate by 2024, with the whole comparison mapped into a single, fully interactive, macro-free toggle chart.
 
 **Tool(s):** Microsoft Excel &nbsp;·&nbsp; **Type:** Course Project — Extended (see below) &nbsp;·&nbsp; **Dataset:** Simulated (DataCamp course dataset)
 
