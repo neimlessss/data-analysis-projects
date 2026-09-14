@@ -100,7 +100,7 @@ Power BI's default implicit aggregations (`SUM`, `AVERAGE`) would silently doubl
 ## How to View
 
 - **Power BI dashboard** — open `us_residents_bike_purchase_analysis.pbix` in Power BI Desktop (free download from Microsoft). No data source connection or credentials needed; the dataset is embedded.
-- **SQL script** — `us_residents_data.sql` is written to be read start to finish as a walkthrough of the investigation, not just executed. If you'd like to run it yourself: import `US Residents Data.csv` into a MySQL database as a table named `raw_residents_data`, then run the script top to bottom in MySQL Workbench (or any MySQL client) — it will build its own `income_cleaned` view along the way.
+- **SQL script** — `us_residents_data.sql` is written to be read start to finish as a walkthrough of the investigation, not just executed. If you'd like to run it yourself: import `us_residents_data.csv` into a MySQL database as a table named `raw_residents_data`, then run the script top to bottom in MySQL Workbench (or any MySQL client) — it will build its own `income_cleaned` view along the way.
 
 ---
 
