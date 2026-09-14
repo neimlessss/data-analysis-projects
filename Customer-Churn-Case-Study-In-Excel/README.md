@@ -56,8 +56,6 @@ Investigation into a row-count mismatch between the two revealed the rollup sile
 - KPI summary cards (`Total Customers`, `Churned Customers`, `Churn Rate %`) alongside 5 pivot-driven charts — `Churn Reasons`, `Demographics`, `Age Group Analysis`, `Consumption Churn`, and `Competitor Churn Analysis`.
 - Cross-referenced pivot tables across tenure, contract type, age bracket, data usage tier, and state (filtered to International Plan subscribers).
 - Native Excel grouping applied to tenure into 12-month bands for readable trend comparison.
-- A written Key Finding & Recommendation panel translating the pivot data into a stated conclusion and action, not just a set of tables.
-- A documented data-integrity fix, tracing a `#DIV/0!` error back to a source-data limitation rather than treating it as a formatting issue.
 
 ---
 
