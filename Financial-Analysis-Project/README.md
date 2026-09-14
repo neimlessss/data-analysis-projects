@@ -69,7 +69,7 @@ An initial null check flagged 53 missing values in the Discount Band field. On i
 ## How to Run
 
 1. **Clone the repository** and open the project folder in your terminal.
-2. **Create a `.env` file** in the root directory with the string **DB_PASSWORD** in cell block 7 replaced with your own PostgreSQL password.
+2. **Create a `.env` file** in the root directory with the variable `DB_PASSWORD`, and assigning your PostgreSQL password to it.
 3. **Create a PostgreSQL database** named `financial_analysis` and ensure your local server is running on `localhost:5432` with the username `postgres`.
 4. **Open `financial_analysis.ipynb`** in Jupyter and run all cells top to bottom. The notebook will load the Excel data, push it to PostgreSQL, query it, and render all six charts.
 
