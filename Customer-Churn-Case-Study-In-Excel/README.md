@@ -1,6 +1,6 @@
 # Customer Churn Case Study In Excel
 
-A #DIV/0! error traced back to a silently-blanked source column — and used to uncover which of 6,687 telecom customers are actually at risk, and why.
+A `#DIV/0!` error traced back to a silently-blanked source column — and used to uncover which of 6,687 telecom customers are actually at risk, and why.
 
 **Tool(s):** Microsoft Excel &nbsp;·&nbsp; **Type:** Course Project — Extended (see below) &nbsp;·&nbsp; **Dataset:** Simulated (DataCamp course dataset)
 
@@ -31,9 +31,9 @@ DataCamp's "Case Study: Analyzing Customer Churn in Excel" is a short, beginner-
 
 ## Key Findings
 
-1. **Churn is concentrated in new, month-to-month customers.** Subscribers on month-to-month contracts within their first 12 months churn at **53.8%**, versus under **1%** for 2-year contracts at the same tenure.
-2. **Contract type and tenure are the strongest churn predictors in this dataset** — a larger effect than age or data usage.
-3. **This lines up with the churn-reason data.** Competitor offers and devices, not service dissatisfaction, are the leading stated reasons for leaving — suggesting this segment is price/offer-sensitive rather than dissatisfied with service.
+1. **Churn is concentrated in new, month-to-month customers.** Subscribers on month-to-month contracts within their first 12 months churn at 53.8%, versus under 1% for 2-year contracts at the same tenure.
+2. **Age does move the needle, but nowhere near as much as contract type and tenure do.** Churn rate rises fairly steadily with age — from 21.96% (19–28) up to 43.80% (79–88), nearly doubling — but even the oldest bracket's rate is well below the 53.8% churn rate new month-to-month subscribers hit regardless of age, confirming contract type and tenure as the stronger predictor.
+3. **This lines up with the churn-reason data.** "Competitor made better offer" (16.9%) and "Competitor had better devices" (16.5%) are the two most-cited reasons for leaving — together more than ten times the rate cited for service dissatisfaction specifically (3.3%) — suggesting this segment is price/offer-sensitive rather than dissatisfied with the service itself.
 
 Taken together, this points toward prioritizing retention offers — such as a discounted incentive to convert to a 1-year contract — specifically for month-to-month customers within their first year. This segment carries the highest concentration of churn risk, and given that competitor offers rather than dissatisfaction are driving it, is more likely to respond to pricing incentives than service-quality fixes.
 
