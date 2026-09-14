@@ -97,8 +97,8 @@ Together, these point to deliberate, correctly-functioning price tiering rather 
 
 ## How to View
 
-Download `literate_nigeria_project_upgraded.pbix` and open it in Power BI Desktop (free at [microsoft.com/powerbi](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)) — this is necessary to see the underlying DAX measures, not just the screenshots.
+Download `literate_nigeria_project_upgraded.pbix` and open it in Power BI Desktop (free at [`microsoft.com/powerbi`](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)) — this is necessary to see the underlying DAX measures, not just the screenshots.
 
 ---
 
-*Dataset is simulated and modelled after Literate Nigeria's actual course offerings, substantially expanded from Literate Nigeria's original 9-row "Data Analytics" course exercise for portfolio purposes. Literate Nigeria is a real organisation based in Lagos, Nigeria — [literatenigeria.com](https://literatenigeria.com).*
+*This project is based on Literate Nigeria's "Data Analytics" course. Dataset is simulated and modelled after their actual course offerings — Literate Nigeria itself is a real organisation based in Lagos, Nigeria — [`literatenigeria.com`](literatenigeria.com). The star schema, DAX measures, and 3-page report are original extensions beyond the guided 9-row exercise.*
