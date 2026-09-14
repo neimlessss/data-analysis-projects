@@ -101,4 +101,4 @@ Download `literate_nigeria_project_upgraded.pbix` and open it in Power BI Deskto
 
 ---
 
-*Dataset is simulated and modelled after Literate Nigeria's actual course offerings, substantially expanded from the original "Data Analytics" 9-row course exercise for portfolio purposes. Literate Nigeria is a real organisation based in Lagos, Nigeria — [literatenigeria.com](https://literatenigeria.com).*
+*Dataset is simulated and modelled after Literate Nigeria's actual course offerings, substantially expanded from Literate Nigeria's original 9-row "Data Analytics" course exercise for portfolio purposes. Literate Nigeria is a real organisation based in Lagos, Nigeria — [literatenigeria.com](https://literatenigeria.com).*
