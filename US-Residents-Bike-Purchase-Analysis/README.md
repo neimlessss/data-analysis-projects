@@ -78,7 +78,6 @@ Power BI's default implicit aggregations (`SUM`, `AVERAGE`) would silently doubl
 - 5-page interactive Power BI report (`Overview`, `Bike Purchase Overview`, `Demographics`, `Bike Purchase Drivers`, `Key Insights & Recommendations`).
 - Custom DAX measures (`Average Income`, `Total Income`) built with `AVERAGEX`/`SUMX` over distinct resident IDs to correctly handle the dataset's duplicated resident records.
 - A dedicated Power Query deduplication table powering the resident-detail view.
-- An SQL-first investigative workflow — every dashboard insight is traceable back to a specific query in `us_residents_data.sql`.
 
 ---
 
