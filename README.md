@@ -16,6 +16,7 @@ across the full data analysis workflow — from cleaning and modelling to visual
 | 4 | [US Residents Bike Purchase Analysis](US-Residents-Bike-Purchase-Analysis/) | MySQL & Power BI | Personal Project |
 | 5 | [Customer Churn Case Study In Excel](Customer-Churn-Case-Study-In-Excel/) | Microsoft Excel | Course Project — Extended |
 | 6 | [Net Revenue Management Case Study](Net-Revenue-Management-Case-Study/) | Microsoft Excel | Course Project — Extended |
+| 7 | [Retail_Sales_Dashboard_Audit](Retail_Sales_Dashboard_Audit/) | Microsoft Excel | OIT Capstone Project |
 
 ---
 
