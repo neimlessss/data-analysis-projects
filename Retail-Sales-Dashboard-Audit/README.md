@@ -1,6 +1,6 @@
 # Retail Sales Dashboard Audit
 
-A retail dashboard that looked ready for management turned out to be wrong on six of its seven specific claims and misleading on the seventh — starting with a market that looked like the top earner and is actually the weakest.
+A retail dashboard that looked ready for management turned out to be wrong on six of its seven specific claims and misleading on the seventh — starting with the market management called the most profitable, which is actually the weakest.
 
 **Tool(s):** Microsoft Excel &nbsp;·&nbsp; **Type:** OIT Capstone Project &nbsp;·&nbsp; <br> **Dataset:** Created by the DSN AI Bootcamp 2026 and provided by Othello Institute of Technology (retail transactions across five Nigerian markets)
 
